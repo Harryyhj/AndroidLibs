@@ -6,6 +6,76 @@
 
 ---
 
+**PhoneMask**: https://github.com/vacxe/PhoneMask
+
+根据掩码友好的显示手机号码
+
+---
+
+**RippleValidatorEditText**: https://github.com/omidheshmatinia/RippleValidatorEditText
+
+RippleValidatorEditText
+
+<img src="https://github.com/omidheshmatinia/RippleValidatorEditText/raw/master/sample/sample1.gif" width="320"/>
+
+---
+
+**ClickDrawableTextView**: https://github.com/matpag/ClickDrawableTextView
+
+ClickDrawableTextView
+
+<img src="https://camo.githubusercontent.com/69019c8c81299b0589652c35353a9fcf5d8559f1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f785541376158716d70704c523761304a66472f67697068792e676966" width="320"/>
+
+---
+
+**GradientTextView**: https://github.com/livesun/GradientTextView
+
+一个颜色逐渐改变的textview，类似歌词效果
+
+<img src="https://cloud.githubusercontent.com/assets/27534854/26811851/e7ca915a-4aa6-11e7-993a-0f60f53132fa.gif" width="320"/>
+
+---
+
+**TagViewGroup**: https://github.com/shellljx/TagViewGroup
+
+Android 仿小红书图片标签Group
+
+<img src="https://camo.githubusercontent.com/5c7618004034e41b5eea5cca839d23ba3f11da59/687474703a2f2f37767a7066642e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f657a6769662e636f6d2d646339663232313539302e676966" width="320"/>
+
+---
+
+**CompoundIconTextView**: https://github.com/AAkira/CompoundIconTextView
+
+支持矢量图展示的 TextView
+
+<img src="https://github.com/AAkira/CompoundIconTextView/raw/master/arts/preview.png" width="320"/>
+
+---
+
+**HorizontalScrollSelectedView**: https://github.com/385841539/HorizontalScrollSelectedView
+
+横向滚动的，可以支持大量文本选择的 自定义View ，一行代码 ， 简单易用 ， 无OOM情况
+
+<img src="https://github.com/385841539/HorizontalScrollSelectedView/raw/master/horizontalselectedviewlibrary/src/main/res/drawable/xiaoguo2.gif" width="320"/>
+
+---
+
+**ParticleTextView**: https://github.com/Yasic/ParticleTextView
+
+一个用粒子动画显示文字的 Android 自定义 View
+
+<img src="https://github.com/Yasic/ParticleTextView/raw/master/Screenshot/Total.gif?raw=true" width="320"/>
+
+---
+
+**MaterialChipsInput**: https://github.com/pchmn/MaterialChipsInput
+
+Implementation of Material Design Chips component for Android
+
+<img src="https://raw.githubusercontent.com/pchmn/MaterialChipsInput/master/docs/demo2.gif" width="320"/>
+
+---
+
 **android-round-textview**: https://github.com/apg-mobile/android-round-textview
 
 android-round-textview
@@ -70,7 +140,7 @@ Android 查询高亮辅助组件
 
 A HorizontalPicker view for android, which supports both text and icon
 
-<img src="https://raw.githubusercontent.com/GoodieBag/HorizontalPicker/master/gif/HPtap.gif" width="270"/> <img src="https://raw.githubusercontent.com/GoodieBag/HorizontalPicker/master/gif/HPslide.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/GoodieBag/HorizontalPicker/master/gif/HPtap.gif" width="270"/>
 
 ---
 
@@ -118,7 +188,7 @@ Android 仿小红书图片标签Group
 
 Android Textview Fading 动画效果
 
-<img src="https://camo.githubusercontent.com/ce4876c7895bc08b7920d584f7809536b569299c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f56473545594374746d7330357a5246724f78526b38464c7a397433727652305169316458313271365043695f5a736c7258306c6165474145494731754e59466f754b52456e46724a354855534e726f6138474f5f4e354648704c73526c4477306f7444496f555f475250393039664641386c4e586f346d7775615a6b64756f6d654f553754654e49644439564d374332374879745651685a696766477872464939724444512d3266457837417041384c5f62716c496646343934664e66344473362d497148656974616b5a5333754679617a736b6968596d6d4a4a6377746f3270396b75556e706f7533625474454e4d6630345a6556334446743750696b59477542564231337a792d3054504a645f7731526b47783741533261634e69476f347867596b7350385042726d76385478576d3477584839754438324262654467737a6757427a4f4137314c6e54304268344f41576d386c6e3775515448475839634f686d317135375f4b526e52704c46694f525f614b566f614a624441796c7a6f667341584c51655369394a4d6568366971485741554a6357454a7351346a527335722d49447a59575a787a4e324e384f41686f4363564a615852315935486b705a467070736f3853384f4264574a7253394a3944463466694d4e774568692d71512d4c4269746a3876564e334776387855413565396352773444756632626f7154756d6850386a49356e39382d7270446d587632556f5a47424571536e394778785f6d30623846446d7043426a6c30346c4576636a32304b4d38544c52696a4c78656552664e66436f6374704b424f474c4a52516a386c4d71537a5651566b5031706779776552417248632d5f3272737567526954423552597631474e3958684e4d3075704c7352487648766271465a31714a4f523071414b6a6b747966766342637646754e397a6a59673d773830302d683233312d6e6f" width="640"/>
+<img src="https://camo.githubusercontent.com/ce4876c7895bc08b7920d584f7809536b569299c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f56473545594374746d7330357a5246724f78526b38464c7a397433727652305169316458313271365043695f5a736c7258306c6165474145494731754e59466f754b52456e46724a354855534e726f6138474f5f4e354648704c73526c4477306f7444496f555f475250393039664641386c4e586f346d7775615a6b64756f6d654f553754654e49644439564d374332374879745651685a696766477872464939724444512d3266457837417041384c5f62716c496646343934664e66344473362d497148656974616b5a5333754679617a736b6968596d6d4a4a6377746f3270396b75556e706f7533625474454e4d6630345a6556334446743750696b59477542564231337a792d3054504a645f7731526b47783741533261634e69476f347867596b7350385042726d76385478576d3477584839754438324262654467737a6757427a4f4137314c6e54304268344f41576d386c6e3775515448475839634f686d317135375f4b526e52704c46694f525f614b566f614a624441796c7a6f667341584c51655369394a4d6568366971485741554a6357454a7351346a527335722d49447a59575a787a4e324e384f41686f4363564a615852315935486b705a467070736f3853384f4264574a7253394a3944463466694d4e774568692d71512d4c4269746a3876564e334776387855413565396352773444756632626f7154756d6850386a49356e39382d7270446d587632556f5a47424571536e394778785f6d30623846446d7043426a6c30346c4576636a32304b4d38544c52696a4c78656552664e66436f6374704b424f474c4a52516a386c4d71537a5651566b5031706779776552417248632d5f3272737567526954423552597631474e3958684e4d3075704c7352487648766271465a31714a4f523071414b6a6b747966766342637646754e397a6a59673d773830302d683233312d6e6f" width="400"/>
 
 ---
 
@@ -126,7 +196,7 @@ Android Textview Fading 动画效果
 
 简单易用的TextView装饰库
 
-<img src="https://raw.githubusercontent.com/nntuyen/text-decorator/master/screenshot/screenshot2.gif" width="640"/>
+<img src="https://raw.githubusercontent.com/nntuyen/text-decorator/master/screenshot/screenshot2.gif" width="320"/>
 
 ---
 
@@ -430,6 +500,14 @@ represent any prices in Russian rouble currency
 
 ---
 
+**android-EmojiCompat**: https://github.com/googlesamples/android-EmojiCompat
+
+Android Emoji 兼容包，彻底解决 Android Emoji 不一致问题
+
+<img src="https://github.com/googlesamples/android-EmojiCompat/raw/master/screenshots/1-main.png" width="270" />
+
+---
+
 **emojiconize**: https://github.com/rockerhieu/emojiconize
 
 一行代码渲染 emoji
@@ -500,19 +578,27 @@ Very long text support for Android
 
 ---
 
-**ElegantNumberButton**: https://github.com/ashik94vc/ElegantNumberButton
-
-Brought to you by cepheuen http://www.cepheuen.com
-
-<img src="https://raw.githubusercontent.com/ashik94vc/ElegantNumberButton/master/screens/screen01.gif" width="320" />
-
----
-
 **ElemeShoppingView**: https://github.com/JeasonWong/ElemeShoppingView
 
 仿饿了么点击购物效果
 
 <img src="https://camo.githubusercontent.com/bcf966b31e9d2cb16ad81341fed16627dc2f30e9/687474703a2f2f69322e7069696d672e636f6d2f313037302f303232353766393331366262646362362e676966" width="300" />
+
+---
+
+**IncrementProductView**: https://github.com/steelkiwi/IncrementProductView
+
+有趣的购物车按钮
+
+<img src="https://github.com/steelkiwi/IncrementProductView/raw/master/assets/animation.gif" width="320" />
+
+---
+
+**ElegantNumberButton**: https://github.com/ashik94vc/ElegantNumberButton
+
+Brought to you by cepheuen http://www.cepheuen.com
+
+<img src="https://raw.githubusercontent.com/ashik94vc/ElegantNumberButton/master/screens/screen01.gif" width="320" />
 
 ---
 
@@ -708,6 +794,14 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 
 ---
 
+**KeyboardNumber**: https://github.com/policante/KeyboardNumber
+
+KeyboardNumber
+
+<img src="https://raw.githubusercontent.com/policante/KeyboardNumber/master/resource/dialog1.png" width="320" /> <img src="https://raw.githubusercontent.com/policante/KeyboardNumber/master/resource/dialog4.png" width="320" />
+
+---
+
 **NumberKeyboard**: https://github.com/wangshaolei/NumberKeyboard
 
 仿美团和糯米商家验证版的一个数字校验键盘
@@ -721,6 +815,12 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 仿照Google+在卡片上滚动显示最新评论的TextSwitcher
 
 <img src="https://raw.githubusercontent.com/SumiMakito/AdvancedTextSwitcher/master/art/snapshot.gif" width="480" />
+
+---
+
+**MarkupAndroid**: https://github.com/shree-vastava/MarkupAndroid
+
+文本高亮
 
 ---
 
@@ -855,6 +955,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**RotatingText**: https://github.com/sdsmdg/RotatingText
+
+记分牌效果的单词轮换
+
+<img src="https://github.com/sdsmdg/RotatingText/raw/master/screens/gif_example_3.gif" width="400" />
+
+---
+
 **MarqueeViewLibrary**: https://github.com/gongwen/MarqueeViewLibrary
 
 一个帮您快速实现跑马灯效果的library
@@ -913,6 +1021,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**android-DownloadableFonts**: https://github.com/googlesamples/android-DownloadableFonts
+
+This sample demonstrates how to use the Downloadable Fonts feature introduced in Android O
+
+<img src="https://github.com/googlesamples/android-DownloadableFonts/raw/master/screenshots/screenshot-1.png" width="300" />
+
+---
+
 **Fonty**: https://github.com/MarcinOrlowski/Fonty
 
 Android library allowing you to easily change the typeface of your UI elements
@@ -935,9 +1051,25 @@ Custom-Typeface is a library to add custom fonts in android
 
 ---
 
+**EasyFont**: https://github.com/natiginfo/EasyFont
+
+Android Library to set font of TextView, Button, EditText, and RadioButton in XML without editing Java code to set Typeface
+
+<img src="https://github.com/natiginfo/EasyFont/blob/master/screenshots/screenshot1.png" width="270" />
+
+---
+
 **EasyFont**: https://github.com/vishal259/EasyFont
 
 Easy Font for Android is a Library which makes it easy to use Custom Fonts in Android Application
+
+---
+
+**AACustomFont**: https://github.com/EngrAhsanAli/AACustomFont
+
+AACustomFont is a lightweight custom font binder in XML directly in TextView, Button, EditText, RadioButton, CheckBox tags
+
+<img src="https://github.com/EngrAhsanAli/AACustomFont/raw/master/Screenshots/demo.png" width="270" />
 
 ---
 

@@ -6,12 +6,56 @@
 
 ---
 
+**CompileFFmpegWithOpenSSL**: https://github.com/davinctor/CompileFFmpegWithOpenSSL
+
+A bunch of scripts you can use to compile FFmpeg with OpenSSL
+
+---
+
+**EasyPusher_Android**: https://github.com/EasyDarwin/EasyPusher_Android
+
+精炼、稳定、高效的安卓前/后摄像头/手机桌面屏幕采集、编码、RTSP直播推送
+
+---
+
+**MusicPickerActivity**: https://github.com/ykAR6Bqy5DeG/MusicPickerActivity
+
+系统音频文件选择
+
+<img src="https://github.com/ykAR6Bqy5DeG/MusicPickerActivity/raw/master/art/preview.gif" width="320" />
+
+---
+
+**PreviewSeekBar**: https://github.com/rubensousa/PreviewSeekBar
+
+支持视频 Preview 效果的 Seekbar
+ 
+<img src = "https://raw.githubusercontent.com/rubensousa/PreviewSeekBar/master/screenshots/sample.gif" width = "600"/>
+
+---
+
+**NiceVieoPlayer**: https://github.com/xiaoyanger0825/NiceVieoPlayer
+
+MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放器
+
+<img src="https://github.com/xiaoyanger0825/NiceVieoPlayer/raw/master/images/dd.jpg" width="400" />
+
+---
+
 **android-PictureInPicture**: https://github.com/googlesamples/android-PictureInPicture
 
 android-PictureInPicture 画中画功能
 
 <img src="https://raw.githubusercontent.com/googlesamples/android-PictureInPicture/master/screenshots/1-main.png" width="270" /> 
 <img src="https://raw.githubusercontent.com/googlesamples/android-PictureInPicture/master/screenshots/2-pip.png" width="540" />
+
+---
+
+**bilibili-android-client**: https://github.com/HotBitmapGG/bilibili-android-client
+
+非官方 B 站客户端
+
+<img src = "https://raw.githubusercontent.com/HotBitmapGG/bilibili-android-client/master-x/art/01.png" width = "320"/> <img src = "https://raw.githubusercontent.com/HotBitmapGG/bilibili-android-client/master-x/art/06.png" width = "320"/> <img src = "https://raw.githubusercontent.com/HotBitmapGG/bilibili-android-client/master-x/art/002.png" width = "640"/>
 
 ---
 
@@ -33,11 +77,25 @@ android-PictureInPicture 画中画功能
 
 ---
 
+**ZoomableTextureView**: https://github.com/Manuiq/ZoomableTextureView
+
+视频双指缩放
+
+<img src="https://github.com/Manuiq/ZoomableTextureView/raw/master/example.gif" width="360" />
+
+---
+
 **ExoPlayerManager**: https://github.com/AAkira/ExoPlayerManager
 
 Kotin 写的视频广告库
 
 <img src="https://raw.githubusercontent.com/AAkira/ExoPlayerManager/master/art/ima_sample.gif" width="360" />
+
+---
+
+**SiliCompressor**: https://github.com/Tourenathan-G5organisation/SiliCompressor
+
+稳定强大的图片，视频压缩库
 
 ---
 
@@ -60,6 +118,14 @@ Kotin 写的视频广告库
 **Camera2-Video**: https://github.com/WesleyElliott/Camera2-Video
 
 A simple Android wrapper for interfacing with the new Camera2 API for video capture
+
+---
+
+**ExoPlayerFilter**: https://github.com/MasayukiSuda/ExoPlayerFilter
+
+实时视频滤镜
+
+<img src="https://github.com/MasayukiSuda/ExoPlayerFilter/raw/master/art/art.gif" width="270" />
 
 ---
 
@@ -193,6 +259,12 @@ MJPEG 视频流播放
 
 ---
 
+**audio-analyzer-for-android**: https://github.com/bewantbe/audio-analyzer-for-android
+
+音乐频谱分析
+
+---
+
 **A-MusicView**: https://github.com/north2014/A-MusicView
 
 原创自定义控件之-Canvas实时绘制音乐波形图
@@ -203,7 +275,7 @@ MJPEG 视频流播放
 
 **lastfm-lib**: https://github.com/ArthurGhazaryan/lastfm-lib
 
- last.fm 安卓api
+last.fm 安卓api
 
 ---
 
@@ -231,11 +303,23 @@ ExoPlayer's wrapper for using with TextureView
 
 ---
 
+**UVCCamera**: https://github.com/saki4510t/UVCCamera
+
+usb摄像头，library and sample to access to UVC web camera on non-rooted Android device
+
+---
+
 **YUVDroidTools**: https://github.com/Jhuster/YUVDroidTools
 
 安卓预览 YUV 原始数据
 
 <img src="https://raw.githubusercontent.com/Jhuster/YUVDroidTools/master/screenshots/home.png" width="320"/>
+
+---
+
+**LingoRecorder**: https://github.com/lingochamp/LingoRecorder
+
+LingoRecorder is a better recorder for Android, you can easily process pcm from it
 
 ---
 
@@ -248,6 +332,12 @@ ExoPlayer's wrapper for using with TextureView
 **AudioVideo**: https://github.com/doggycoder/AudioVideo
 
 Android音视频相关的Demo
+
+---
+
+**SimpleRecorder**: https://github.com/lrannn/SimpleRecorder
+
+Android 高质量录音库
 
 ---
 
@@ -319,6 +409,30 @@ Shuttle Music Player
 
 ---
 
+**IdealMedia**: https://github.com/dmllr/IdealMedia
+
+Awesome app to listen music and audiobooks on the device and online at vk.com. Search, download, set as ringtone, sort by albums, authors, folder. Powerful equalizer
+
+<img src = "https://github.com/dmllr/IdealMedia/raw/master/images/01.png" width = "270"/> <img src = "https://github.com/dmllr/IdealMedia/raw/master/images/02.png" width = "270"/> <img src = "https://github.com/dmllr/IdealMedia/raw/master/images/03.png" width = "270"/>
+
+---
+
+**MusicWave**: https://github.com/akshay2211/MusicWave
+
+音乐播放频谱波形
+
+<img src = "https://github.com/akshay2211/MusicWave/raw/master/media/musicwave_gif.gif" width = "300"/>
+
+---
+
+**MusicIndicator**: https://github.com/Taishi-Y/MusicIndicator
+
+Android 音乐频谱效果组件
+
+<img src = "https://github.com/Taishi-Y/MusicIndicator/raw/master/art/samplegif.gif?raw=true" width = "300"/>
+
+---
+
 **CameraFragment**: https://github.com/florent37/CameraFragment
 
 Fragment拍照摄像
@@ -335,11 +449,19 @@ A simple audio player for Android applications
 
 ---
 
+**PonyMusic**: https://github.com/wangchenyan/PonyMusic
+
+波尼音乐 OkHttp+Gson+Material Design Online Music Player
+
+<img src="https://raw.githubusercontent.com/wangchenyan/PonyMusic/master/art/screenshot_01.jpg" width="270" /> <img src="https://raw.githubusercontent.com/wangchenyan/PonyMusic/master/art/screenshot_03.jpg" width="270" /> <img src="https://raw.githubusercontent.com/wangchenyan/PonyMusic/master/art/screenshot_04.jpg" width="270" />
+
+---
+
 **remusic**: https://github.com/aa112901/remusic
 
 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
 
-<img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/1%20(2).png" width="270" /> <img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/device-2016-08-18-213321.png" /> <img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/device-2016-03-24-133544%20(%E5%A4%8D%E5%88%B6).png" width="270" />
+<img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/1%20(2).png" width="270" /> <img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/device-2016-08-18-213321.png" width="270" /> <img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/device-2016-03-24-133544%20(%E5%A4%8D%E5%88%B6).png" width="270" />
 
 ---
 

@@ -6,6 +6,14 @@
 
 ---
 
+**CompoundButtonGroup**: https://github.com/llollox/CompoundButtonGroup
+
+An Android library to easily implement compound buttons
+
+<img src="https://github.com/llollox/CompoundButtonGroup/blob/master/docs/screen/check_box.gif" width="270" /> <img src="https://github.com/llollox/CompoundButtonGroup/blob/master/docs/screen/radio.gif" width="270" /> <img src="https://github.com/llollox/CompoundButtonGroup/blob/master/docs/screen/radio_3cols.gif" width="270" />
+
+---
+
 **MultiLineRadioGroup**: https://github.com/Gavras/MultiLineRadioGroup
 
 A Radio Group layout to show radio buttons in more than one line
@@ -25,6 +33,14 @@ A custom ImageButton that invoke onClickListener only when touch is inside the c
 Android Holding Button 效果
 
 <img src="https://raw.githubusercontent.com/dewarder/HoldingButton/master/_arts/example.gif" width="300" />
+
+---
+
+**swipe-button**: https://github.com/ebanx/swipe-button
+
+可滑动的按钮
+
+<img src="https://camo.githubusercontent.com/ab388bdcecebbf5b9ea7664914a2a6ab525f9e0a/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d704731514266695361496f2f57536273776639545238492f41414141414141414143512f4249545465425679687651484d356f326854573778347173626657334f4a624351434c63422f73302f627574746f6e2b6d6f7669652e676966" width="320" />
 
 ---
 
@@ -210,6 +226,22 @@ MagicButton
 An animated toggling Plus/Check button for Android
 
 <img src="https://raw.githubusercontent.com/Shyish/CheckView/master/gifs/checkview.gif" width="150" />
+
+---
+
+**LoadingButtonAndroid**: https://github.com/leandroBorgesFerreira/LoadingButtonAndroid
+
+loading button
+
+<img src="https://camo.githubusercontent.com/73ab06601fb650fd51fa01781053fde8ff52f9bd/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f38534852312e676966" width="320" />
+
+---
+
+**SubmitButton**: https://github.com/Someonewow/SubmitButton
+
+带有进度动画的Android自定义提交按钮
+
+<img src="https://raw.githubusercontent.com/Someonewow/SubmitButton/master/screens/submitbutton_failed.gif" width="320" />
 
 ---
 

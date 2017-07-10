@@ -5,9 +5,63 @@
 
 ---
 
+**litho**:https://github.com/facebook/litho
+
+facebook 出品的高效UI加载库
+
+---
+
 **material-components-android**: https://github.com/material-components/material-components-android
 
 Material Design 风格的组件集合
+
+---
+
+**android-constraintlayout-demo**: https://github.com/Arjun-sna/android-constraintlayout-demo
+
+android-constraintlayout-demo
+
+<img src="https://camo.githubusercontent.com/ba5fad62e69f72dc6f36178c241e3bbf4facbba1/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f636f6e73747261696e746c61796f757464656d6f312e706e67" width="270" /> <img src="https://camo.githubusercontent.com/6a880c9c1a34cb610dca230b7d79434a8d6df3af/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f636f6e73747261696e746c61796f757464656d6f322e706e67" width="270" /> <img src="https://camo.githubusercontent.com/b6cf312da8d9f08d74365ee11a35eaa7fa69598e/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f636f6e73747261696e6c61796f75745f64656d6f332e706e67" width="270" />
+
+---
+
+**ImmersiveDetailSample**: https://github.com/matrixxun/ImmersiveDetailSample
+
+A sample application show how to realize immersive parallax effect header like Google Play Store
+
+<img src="https://github.com/matrixxun/ImmersiveDetailSample/raw/master/art/demo.gif" width="320" /> <img src="https://github.com/matrixxun/ImmersiveDetailSample/raw/master/art/demo01.gif" width="320" />
+
+---
+
+**RoundKornerLayouts**: https://github.com/JcMinarro/RoundKornerLayouts
+
+圆角布局
+
+<img src="https://github.com/JcMinarro/RoundKornerLayouts/raw/master/art/screenshot1.png" width="320" />
+
+---
+
+**expandable-layout**: https://github.com/chuross/expandable-layout
+
+可展开折叠的布局
+
+<img src="https://cloud.githubusercontent.com/assets/1422031/26396914/9381d0be-40af-11e7-9434-7a7aaff1adee.gif" width="320" />
+
+---
+
+**CarouselEffect**: https://github.com/bhaveshjabuvani-credencys/CarouselEffect
+
+Carousel Effect with ViewPager
+
+<img src="https://raw.githubusercontent.com/bhaveshjabuvani-credencys/CarouselEffect/master/CarouselEffectDemo.gif" width="270" />
+
+---
+
+**UltraViewPager**: https://github.com/alibaba/UltraViewPager
+
+一个封装多种特性的ViewPager
+
+<img src="https://raw.githubusercontent.com/alibaba/UltraViewPager/master/pics/pics1.gif" width="320" /> <img src="https://raw.githubusercontent.com/alibaba/UltraViewPager/master/pics/pics3.gif" width="320" />
 
 ---
 
@@ -150,11 +204,27 @@ Simple WebView for Detect click on an image
 <img src="https://raw.githubusercontent.com/ToDou/appbarlayout-spring-behavior/master/screenshot/appbar_spring.gif" width="256" /> <img src="https://raw.githubusercontent.com/ToDou/appbarlayout-spring-behavior/master/screenshot/appbar_spring_blur_tab.gif" width="256" /> <img src="https://raw.githubusercontent.com/ToDou/appbarlayout-spring-behavior/master/screenshot/appbar_scrollview_fling_fix.gif" width="256" />
 ---
 
+**JPagerSlidingTabStrip**: https://github.com/ZuYun/JPagerSlidingTabStrip
+
+增强版的 PagerSlidingTabStrip. 使用方式和PagerSlidingTabStrip一样简单，但功能和样式更丰富
+
+<img src="https://github.com/ZuYun/JPagerSlidingTabStrip/blob/master/gifs/new.gif" width="320" />
+
+---
+
 **BubbleTab**: https://github.com/florent37/BubbleTab
 
 Put some bubble in your tabs and give your apps a supa fresh style 
 
 <img src="https://raw.githubusercontent.com/florent37/BubbleTab/master/media/video.gif" width="320" /> <img src="https://raw.githubusercontent.com/florent37/BubbleTab/master/media/different_icon.gif" width="320" />
+
+---
+
+**JellyToolbar**: https://github.com/Yalantis/JellyToolbar
+
+果冻肉效果的Toolbar
+
+<img src="https://raw.githubusercontent.com/Yalantis/JellyToolbar/develop/gif.gif" width="400" />
 
 ---
 
@@ -294,11 +364,19 @@ PageStateLayout could let you show [Loading][Empty][Error][Succeed][Requesting] 
 
 ---
 
-**react-native-material-design**: https://github.com/react-native-material-design/react-native-material-design
+**widgetlab**: https://github.com/uDevel/widgetlab
 
-react-native-material-design
+Configurable typing indicator for Android
 
-<img src="https://raw.githubusercontent.com/react-native-material-design/demo-app/master/resources/examples-1.jpg" width="800" />
+<img src="https://camo.githubusercontent.com/75356ec36ea6b06266cb3691f7f0833cff892ca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f435349797149417856467a684b2f67697068792e676966" width="320" />
+
+---
+
+**TooltipIndicator**: https://github.com/huseyinozer/TooltipIndicator
+
+An indicator with preview support that you can use in the ViewPager
+
+<img src="https://github.com/huseyinozer/TooltipIndicator/raw/master/preview.gif" width="320" />
 
 ---
 
@@ -394,12 +472,6 @@ Extended ActionBarDrawerToggle
 
 ---
 
-**Material-SearchView**: https://github.com/VyacheslavShmakin/Material-SearchView
-
-SearchView library based on DialogFragment
-
----
-
 **StickerView**: https://github.com/wuapnjie/StickerView
 
 A view which can add sticker and zoom,drag,delete it
@@ -413,6 +485,14 @@ A view which can add sticker and zoom,drag,delete it
 Android layout with an header image sensible to scroll and touch events
 
 <img src="https://raw.githubusercontent.com/PierfrancescoSoffritti/ShrinkingImageLayout/master/pics/Animation.gif" width="240" />
+
+---
+
+**AdaptableBottomNavigation**: https://github.com/bufferapp/AdaptableBottomNavigation
+
+A simpler way for implementing the Bottom Navigation View on Android
+
+<img src="https://github.com/bufferapp/AdaptableBottomNavigation/raw/master/art/demo.gif" width="320" />
 
 ---
 
@@ -658,6 +738,22 @@ jakewharton 出品 ，DrawerBehavior
 
 ---
 
+**TabLayout**: https://github.com/stayinxing/TabLayout
+
+TabLayout demo
+
+http://www.jianshu.com/p/be1e8a1da639
+
+---
+
+**ColorFullTabLayout**: https://github.com/MdFarhanRaja/ColorFullTabLayout
+
+Fully Customized TabLayout
+
+<img src="https://cloud.githubusercontent.com/assets/18304656/23022989/8c53e084-f479-11e6-8df3-40512b4eb293.jpeg" width="270" />
+
+---
+
 **android-segmentedtab**: https://github.com/pucamafra/android-segmentedtab
 
 segmented control style to TabLayout
@@ -703,14 +799,6 @@ TabLayout CollapsingToolbarLayout CoordinatorLayout 使用示例
 自动轮播的Viewpager
 
 <img src="https://raw.githubusercontent.com/Jude95/RollViewPager/master/example.jpg" width="320" />
-
----
-
-**flexbox-layout**: https://github.com/google/flexbox-layout
-
-FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android
-
-<img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/flex-direction.gif" width="270" /> <img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/flex-wrap.gif" width="270" /> <img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/justify-content.gif" width="270" />
 
 ---
 
@@ -883,22 +971,6 @@ Login view with material design
 
 ---
 
-**WaveView**: https://github.com/developer-shivam/WaveView
-
-正弦曲线绘制动画
-
-<img src="https://raw.githubusercontent.com/developer-shivam/WaveView/master/screenshots/wave_gif.gif" width="320" />
-
----
-
-**SineView**: https://github.com/guiguegon/SineView
-
-正弦曲线绘制动画
-
-<img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/screenshot.png" width="320" /> <img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/animating.gif" width="320" />
-
----
-
 **android-drag-FlowLayout**: https://github.com/LightSun/android-drag-FlowLayout
 
 this is a draggable flow layout lib
@@ -907,11 +979,57 @@ this is a draggable flow layout lib
 
 ---
 
+**material-searchview**: https://github.com/Shahroz16/material-searchview
+
+谷歌风格搜索布局
+
+<img src="https://camo.githubusercontent.com/45668a9d94486df3ab21bff4e05e4c8157550a0b/68747470733a2f2f692e696d67666c69702e636f6d2f786362747a2e676966" width="320"/>
+
+---
+
+**Material-SearchView**: https://github.com/VyacheslavShmakin/Material-SearchView
+
+SearchView library based on DialogFragment
+
+---
+
+**BilibiliSearchView**: https://github.com/didixyy/BilibiliSearchView
+
+漂亮的波纹展开式搜索效果
+
+<img src="https://github.com/didixyy/BilibiliSearchView/raw/master/test.gif?raw=true" width="600" />
+
+---
+
+**PersistentSearchView**: https://github.com/crysehillmes/PersistentSearchView
+
+A library that implements Google Play like PersistentSearch view
+
+<img src="https://raw.githubusercontent.com/crysehillmes/PersistentSearchView/master/screenshots/screenshot1.png" width="320" />
+
+---
+
 **SearchFilter**: https://github.com/Yalantis/SearchFilter
 
 Yalantis 出品：搜索过滤器交互效果
 
 <img src="https://github.com/Yalantis/SearchFilter/raw/master/gif/dribbble.gif" width="640" />
+
+---
+
+**MaterialSearchBar**: https://github.com/mancj/MaterialSearchBar
+
+Material Design Search Bar for Android
+
+<img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/ezgif-838715850.gif" width="320" /> <img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/device-2016-07-20-170335.png" width="320" />
+
+---
+
+**MaterialSearchView**: https://github.com/Mauker1/MaterialSearchView
+
+Android Search View based on Material design guidelines
+
+<img src="https://camo.githubusercontent.com/6676f599bcaac6b35b57a4c9729c52725b32d4c5/687474703a2f2f692e737461636b2e696d6775722e636f6d2f43354c41342e676966" width="320" />
 
 ---
 
@@ -1061,6 +1179,14 @@ Expand your view with no problem
 
 ---
 
+**Spotlight**: https://github.com/TakuSemba/Spotlight
+
+支持引导路径高亮的方案
+
+<img src="https://github.com/TakuSemba/Spotlight/raw/master/arts/simpleTarget.gif" width="320" /> <img src="https://github.com/TakuSemba/Spotlight/raw/master/arts/customTarget.gif" width="320" />
+
+---
+
 **Primer**: https://github.com/mohak1712/Primer
 
 Google Primer 引导页
@@ -1165,6 +1291,14 @@ MD 风格的启动引导页面
 
 ---
 
+**IndicatorView**: https://github.com/steelkiwi/IndicatorView
+
+Configurable view for ViewPager
+
+<img src="https://github.com/steelkiwi/IndicatorView/raw/master/assets/indicator_view_hung_down_action.gif" width="320"/>
+
+---
+
 **WoWoViewPager**: https://github.com/Nightonke/WoWoViewPager
 
 WoWo可以优化你的App介绍/引导页面，制作你的App简历
@@ -1190,19 +1324,27 @@ Count down, count up, tick... tock...
 
 ---
 
-**MaterialSearchBar**: https://github.com/mancj/MaterialSearchBar
+**InstaLikeFragmentTransaction**: https://github.com/TakeoffAndroid/InstaLikeFragmentTransaction
 
-Material Design Search Bar for Android
+Easy Bottom Tab Navigation with back stack history
 
-<img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/ezgif-838715850.gif" width="320" /> <img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/device-2016-07-20-170335.png" width="320" />
+<img src="https://camo.githubusercontent.com/d8857feceb453231103979ccbd592d8fbd972b07/687474703a2f2f692e696d6775722e636f6d2f506172543073522e676966" width="320" />
 
 ---
 
-**MaterialSearchView**: https://github.com/Mauker1/MaterialSearchView
+**AdaptableBottomNavigation**: https://github.com/bufferapp/AdaptableBottomNavigation
 
-Android Search View based on Material design guidelines
+底部导航栏
 
-<img src="https://camo.githubusercontent.com/6676f599bcaac6b35b57a4c9729c52725b32d4c5/687474703a2f2f692e737461636b2e696d6775722e636f6d2f43354c41342e676966" width="320" />
+<img src="https://github.com/bufferapp/AdaptableBottomNavigation/blob/master/art/demo.gif" width="320" />
+
+---
+
+**BottomNavBar**: https://github.com/adib2149/BottomNavBar
+
+底部导航栏
+
+<img src="https://raw.githubusercontent.com/adib2149/BottomNavBar/master/screenshot/screenshot.gif" width="320" />
 
 ---
 
@@ -1321,6 +1463,14 @@ A lightweight viewpager indicator!
 
 ---
 
+**MaterialDrawerKt**: https://github.com/zsmb13/MaterialDrawerKt
+
+Kotlin版本的https://github.com/mikepenz/MaterialDrawer
+
+<img src="https://raw.githubusercontent.com/zsmb13/MaterialDrawerKt/master/docs/github-screens.png" width="400" />
+
+---
+
 **MaterialDrawer**: https://github.com/mikepenz/MaterialDrawer
 
 The flexible, easy to use, all in one drawer library for your Android project.[http://mikepenz.github.io/MaterialDrawer](http://mikepenz.github.io/MaterialDrawer)
@@ -1425,6 +1575,14 @@ The TileView widget is a subclass of android.view.ViewGroup that asynchronously 
 
 ---
 
+**show-case-card-view**: https://github.com/dimorinny/show-case-card-view
+
+Show case card view
+
+<img src="https://raw.githubusercontent.com/dimorinny/show-case-card-view/master/art/logo.png" width="320" />
+
+---
+
 **FancyShowCaseView**: https://github.com/faruktoptas/FancyShowCaseView
 
 好看的高亮提示库
@@ -1510,7 +1668,7 @@ Android layout that simulates physics using JBox2D
 
 ---
 
-**bottomsheet**: [https://github.com/Flipboard/bottomsheet](https://github.com/Flipboard/bottomsheet)
+**bottomsheet**: https://github.com/Flipboard/bottomsheet
 
 Android component which presents a dismissible view from the bottom of the screen
 
@@ -1712,7 +1870,15 @@ A simple ViewPager extends that provide scroll based animation like Jazz Hands f
 
 ---
 
-**AndroidResideMenu**: [https://github.com/SpecialCyCi/AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu)
+**duo-navigation-drawer**: https://github.com/PSD-Company/duo-navigation-drawer
+
+A flexible, easy to use, unique drawer library for your Android project
+
+<img src="https://camo.githubusercontent.com/930d8161fb9d1c90beb93731fba70a14eee414c3/68747470733a2f2f6a2e676966732e636f6d2f7667797272562e676966" width="320" />
+
+---
+
+**AndroidResideMenu**: https://github.com/SpecialCyCi/AndroidResideMenu
 
 The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu. And thanks to the authors for the above idea and contribution.
 

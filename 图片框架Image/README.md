@@ -6,11 +6,127 @@
 
 ---
 
+**Matisse**: https://github.com/zhihu/Matisse
+
+一个能带进度条的图片框架，同时有身份标识动能，简单易用
+
+| Zhihu Style                    | Dracula Style                     | Preview                          |
+|:------------------------------:|:---------------------------------:|:--------------------------------:|
+|![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_zhihu.png) | ![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_dracula.png) | ![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_preview.png)|
+
+---
+
+**pesdk-android-demo: https://github.com/imgly/pesdk-android-demo
+
+图片编辑sdk使用demo
+
+---
+
+**litho-glide: https://github.com/pavlospt/litho-glide
+
+litho-glide
+
+---
+
+**LoTiny: https://github.com/Sunzxyong/Tiny
+
+图片压缩 http://zhengxiaoyong.me/2017/04/23/Android%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E6%A1%86%E6%9E%B6-Tiny/
+
+---
+
+**InsLoadingAnimation: https://github.com/qintong91/InsLoadingAnimation
+
+头像加载进度
+
+<img src="https://github.com/qintong91/InsLoadingAnimation/raw/master/screenshots/demo.gif" width="270"/>
+
+---
+
+**RubberStamp: https://github.com/vinaygaba/RubberStamp
+
+给图片添加水印
+
+<img src="https://github.com/vinaygaba/RubberStamp/raw/master/images/rubberstamp_sample.gif" width="320"/>
+
+---
+
+**WatermarkCreator**: https://github.com/ashishbhandari/WatermarkCreator
+
+水印
+
+<img src = "https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width = "320"/>
+
+---
+
+**progress-image-view-android: https://github.com/safetysystemtechnology/progress-image-view-android
+
+progress-image-view-android
+
+<img src="https://github.com/safetysystemtechnology/progress-image-view-android/raw/master/etc/demo.gif" width="320"/>
+
+---
+
+**DismissibleImageView**: https://github.com/dmallcott/DismissibleImageView
+
+Clickable ImageView that expands to full screen and is dismissible by swiping the image off-screen
+
+<img src = "https://github.com/dmallcott/DismissibleImageView/raw/master/assets/sample.gif" width = "320"/>
+
+---
+
+**PaletteImageView**: https://github.com/DingMouRen/PaletteImageView
+
+为图片添加阴影，阴影颜色来源于图片的主色
+
+<img src = "https://github.com/DingMouRen/PaletteImageView/raw/master/imgs/img.gif" width = "240"/>
+
+---
+
+**LongImageCamera**: https://github.com/wajahatkarim3/LongImageCamera
+
+长图拍摄
+
+<img src = "https://github.com/wajahatkarim3/LongImageCamera/raw/master/Art/demo.gif" width = "240"/>
+
+---
+
+**IdentityImageView**: https://github.com/385841539/IdentityImageView
+
+一个能带进度条的图片框架，同时有身份标识动能，简单易用
+
+<img src = "https://raw.githubusercontent.com/385841539/IdentityImageView/master/app/src/main/res/drawable/biaoshi.gif" width = "240"/>
+
+---
+
+**BifacialView**: https://github.com/pavel163/BifacialView
+
+图像处理后左右对比
+
+<img src = "https://raw.githubusercontent.com/pavel163/BifacialView/master/media/bifacialview1.gif" width = "240"/>
+
+---
+
+**sand**: https://github.com/Jomes/sand
+
+使用JNI实现Sobel算子图像边缘检测
+
+<img src = "https://raw.githubusercontent.com/Jomes/sand/master/gif/sand.gif" width = "200"/>
+
+---
+
 **Camera**: https://github.com/lizhangqu/Camera
 
 二代身份证信息识别
 
 <img src = "https://camo.githubusercontent.com/84165b0a30c3bfa248518a1f3715433b9d0bb942/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530393037313635313233343033" width = "320"/>
+
+---
+
+**Fotoapparat**: https://github.com/Fotoapparat/Fotoapparat
+
+Android 有两套相机 Api，使用起来很麻烦，好在 Foto 开源了他们在 Android 上的 Camera 封装 Api，力荐
+
+<img src = "https://github.com/Fotoapparat/Fotoapparat/raw/master/sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width = "320"/>
 
 ---
 
@@ -61,6 +177,36 @@ Changes the color of individual pixels in a Bitmap
 **BypassPicassoImageGetter**: https://github.com/Commit451/BypassPicassoImageGetter
 
 Loads images for Bypass using Picasso
+
+---
+
+**multiselect**: https://github.com/karanvs/multiselect
+
+多个图片/视频选择
+
+---
+
+**ImageNice9Layout**: https://github.com/wobiancao/ImageNice9Layout
+
+仿Nice首页图片列表9图样式，并实现拖拽效果
+
+<img src = "https://github.com/wobiancao/ImageNice9Layout/raw/master/screenshot/drag9.gif" width = "320"/>
+
+---
+
+**ImageShowPicker**: https://github.com/yaozs/ImageShowPicker
+
+仿微信朋友圈图片选择
+
+<img src = "https://raw.githubusercontent.com/yaozs/ImageShowPicker/master/pic/weixin_pic.jpg" width = "320"/>
+
+---
+
+**EasyImagePicker**: https://github.com/oswaldo89/EasyImagePicker
+
+EasyImagePicker
+
+<img src = "https://camo.githubusercontent.com/f0c8a42c9f22d401e8dcbc222390450264ffca27/68747470733a2f2f6578747261696d6167652e6e65742f696d616765732f323031372f30342f31342f61613962373934353138313937623130383137306563333163653631653839372e6a7067" width = "240"/> <img src = "https://camo.githubusercontent.com/0c38b10d6c424b0e45563dc2348c7b69e102e283/68747470733a2f2f6578747261696d6167652e6e65742f696d616765732f323031372f30342f31342f36633666336461323763653662646233343539326261653035316262393239322e6a7067" width = "240"/>
 
 ---
 
@@ -155,6 +301,14 @@ android多图选择器 图片/视频 单选or多选，以及视频录制
 Gradient-Artist library will allow you to use gradient overly on top of the image
 
 <img src = "https://raw.githubusercontent.com/Hariofspades/Gradient-Artist/master/assets/wallpaper.png" width = "640"/>
+
+---
+
+**500px-android-blur**: https://github.com/500px/500px-android-blur
+
+500px-android-blur
+
+<img src = "https://github.com/500px/500px-android-blur/raw/master/blurdemo.gif" width = "400"/>
 
 ---
 
@@ -516,6 +670,14 @@ A small tool to convert your app's png&jpg image files into WebP when possible
 
 ---
 
+**CompressHelper**: https://github.com/nanchen2251/CompressHelper
+
+压缩文件，压缩图片，压缩Bitmap，Compress,CompressImage,CompressFile,CompressBitmap
+
+<img src="https://raw.githubusercontent.com/nanchen2251/CompressHelper/master/111.png" width = "320"/>
+
+---
+
 **AdvancedLuban**: https://github.com/shaohui10086/AdvancedLuban
 
 高效、简洁的图片压缩工具库 / An Advanced Compress Image Library for Android http://shaohui.me
@@ -537,6 +699,22 @@ Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
 **zxing-android-embedded**: https://github.com/journeyapps/zxing-android-embedded
 
 Port of the ZXing Android application as an Android library project, for embedding in an Android application
+
+---
+
+**AwesomeQRCode**: https://github.com/SumiMakito/AwesomeQRCode
+
+一个优雅的二维码生成器
+
+<img src="https://github.com/SumiMakito/AwesomeQRCode/raw/master/art/awesome-qr-4.png" width="320" />
+
+---
+
+**PressScanCode**: https://github.com/BolexLiu/PressScanCode
+
+一个长按扫描webView上的二维码的工具库
+
+<img src="https://raw.githubusercontent.com/BolexLiu/PressScanCode/master/tips.gif" width="240" />
 
 ---
 
@@ -634,11 +812,9 @@ Android 色彩渐进 ImageView
 
 ---
 
-**WatermarkCreator**: https://github.com/ashishbhandari/WatermarkCreator
+**CameraFilters**: https://github.com/JessYanCoding/CameraFilters
 
-水印
-
-<img src = "https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width = "320"/>
+摄像头实时滤镜处理库,自带10多种滤镜,支持滤镜扩展,并且兼容七牛云直播滤镜处理
 
 ---
 
@@ -702,6 +878,14 @@ GifLoadingViewhttps://amitshekhariitbhu.github.io/GlideBitmapPool/
 
 ---
 
+**GlideSlider**: https://github.com/firdausmaulan/GlideSlider
+
+Glide Image Slider
+
+<img src="https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966" width="320"/>
+
+---
+
 **glide-bindingadapter**: https://github.com/s0nerik/glide-bindingadapter
 
 Configurable @BindingAdapter for Glide
@@ -711,36 +895,6 @@ Configurable @BindingAdapter for Glide
 **GlideBitmapPool**: https://github.com/amitshekhariitbhu/GlideBitmapPool
 
 Glide Bitmap Pool is a memory management library for reusing the bitmap memory https://amitshekhariitbhu.github.io/GlideBitmapPool/
-
----
-
-**vectalign**: https://github.com/bonnyfone/vectalign
-
-Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG images)
-
-<img src="http://s33.postimg.org/qiaafk7xb/vectalign_0_2_demo.gif" width="530px"> 
-
-<img src="http://s4.postimg.org/boxc1zk0p/morph2.gif" width="110px">
-<img src="http://s21.postimg.org/4657b7m0j/morph1.gif" width="110px">
-<img src="http://s28.postimg.org/8mdcxb48t/morph5.gif" width="110px">
-<img src="http://s18.postimg.org/79coo8vid/morph3.gif" width="120px">
-<img src="http://s9.postimg.org/a5tdgfppn/morph4.gif" width="140px">
-
----
-
-**GoogleClock**: https://github.com/lypeer/GoogleClock
-
-纯用SVG做的Google I/O 2016那个炫酷的时钟
-
-<img src="https://raw.githubusercontent.com/lypeer/GoogleClock/master/gif/smallclock.gif" width="320" />
-
----
-
-**AnimatedSvgView**: https://github.com/jrummyapps/AnimatedSvgView
-
-Animated SVG Drawing for Android
-
-<img src="https://raw.githubusercontent.com/jaredrummler/AnimatedSvgView/master/demo/demo.gif" width="320" />
 
 ---
 
@@ -803,6 +957,12 @@ Android Rounded, Circle, Path ImageView
 **belvedere**: https://github.com/zendesk/belvedere
 
 An image picker library for Android
+
+---
+
+**hiddenshot**: https://github.com/karanvs/hiddenshot
+
+安卓截图
 
 ---
 

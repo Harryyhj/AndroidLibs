@@ -30,6 +30,26 @@ Android 开发的一些 Tips 集合
 
 ---
 
+**VirtualAPK**：https://github.com/didi/VirtualAPK
+
+A powerful and lightweight plugin framework for Android
+
+<img src="https://github.com/didi/VirtualAPK/raw/master/imgs/va.png" width="600"/>
+
+---
+
+**Magisk**：https://github.com/topjohnwu/Magisk
+
+A Magic Mask to Alter Android System Systemless-ly
+
+---
+
+**Alfonz**：https://github.com/petrnohejl/Alfonz
+
+Mr. Alfonz is here to help you build your Android app, make the development process easier and avoid boilerplate code
+
+---
+
 **material-design-data**：https://github.com/Luosunce/material-design-data
 
 关于 Material Design 的一切资料都在这里
@@ -42,6 +62,12 @@ Android 开发的一些 Tips 集合
 
 ---
 
+**ADAL**：https://github.com/massivedisaster/ADAL
+
+安卓快速开发库
+
+---
+
 **MVPArt**：https://github.com/JessYanCoding/MVPArt
 
 A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
@@ -51,6 +77,18 @@ A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
 **MVPArms**：https://github.com/JessYanCoding/MVPArms
 
 一个整合了大量主流开源项目的Android Mvp快速搭建框架
+
+---
+
+**android-fuze**：https://github.com/NodensN/android-fuze
+
+Fuze is an amazing functional reactive mvvm sample  based on Kickstarter oss app
+
+---
+
+**DroidWizard**：https://github.com/praslnx8/DroidWizard
+
+Kickstart MVP framework for android development
 
 ---
 
@@ -84,6 +122,38 @@ Showcase project of Functional Reactive Programming on Android, using RxJava. ht
 
 ---
 
+**android-mvp-architecture**: https://github.com/MindorksOpenSource/android-mvp-architecture
+
+This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
+
+<img src="https://camo.githubusercontent.com/6cac1f474b46444878083ea769efa0179318f034/68747470733a2f2f6a616e69736861722e6769746875622e696f2f676966732f6d76702d6170702e676966" width="320"/>
+
+---
+
+**EliteMvp**: https://github.com/jemshit/EliteMvp
+
+Simple, Tiny, Extendable Android MVP library
+
+<img src="https://raw.githubusercontent.com/jemshit/EliteMvp/master/files/uml.png" width="640"/>
+
+---
+
+**HtmlNative**: https://github.com/hsllany/HtmlNative
+
+Use HTML/CSS to render Android View, Lua to control its logic (Not Webview)
+
+<img src="https://github.com/hsllany/HtmlNative/raw/master/doc/screen2.jpg" width="320"/>
+
+---
+
+**Android-Architecture-Components**: https://github.com/KucherenkoIhor/Android-Architecture-Components
+
+The template project that uses Android Architecture Components with Repository pattern. The simple app that uses awesome Fuel library instead of Retrofit for perfoming HTTP request. The app also persists data using the Room library and display data in RecyclerView
+
+<img src="https://camo.githubusercontent.com/0a3e2e91c9ec0d1b759faba9654ebb23744150b8/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a575664464d596d456f4364586e697937756c446535672e706e67" width="600"/>
+
+---
+
 **Pluto-Android**: https://github.com/minggo620/Pluto-Android
 
 Android应用开发通用框架
@@ -97,6 +167,12 @@ Android应用开发通用框架
 Login/Signup app which handles boiler plate Validation logics using MVP design patterns with SQLite Database
 
 <img src="https://camo.githubusercontent.com/fa70071b3310bb98a865c560f320bd2d325d78fb/687474703a2f2f692e696d6775722e636f6d2f546f62344132322e676966" width="190"/> <img src="https://camo.githubusercontent.com/8906ef6aad16b32871365386f3042a0dc5dce505/687474703a2f2f692e696d6775722e636f6d2f79416939426d352e676966" width="190"/>
+
+---
+
+**AndroidHookStartActivity**: https://github.com/BolexLiu/AndroidHookStartActivity
+
+两行代码实现动态启动未注册的Activity
 
 ---
 
@@ -386,6 +462,14 @@ This Android library implements a vertical stepper form following Google Materia
 
 ---
 
+**mvvm-starter**：https://github.com/flipboxstudio/mvvm-starter
+
+starter for Android MVVM Project using DataBinding Library
+
+<img src="https://camo.githubusercontent.com/241a05552f3ffd77b846d26faae388d547135078/68747470733a2f2f7075752e73682f7637556d312f653336633438623432662e706e67" width="600" />
+
+---
+
 **Kubwa**：https://github.com/WesleyElliott/Kubwa
 
 An Annotation based validation library for use with Android's DataBinding library in an MVVM architecture
@@ -454,6 +538,12 @@ Using Databing and Retrofit to build a fast MVVM framework
 
 ---
 
+**LoveUT**：https://github.com/geniusmart/LoveUT
+
+Robolectric 3.x 的介绍和实战
+
+---
+
 **ConditionWatcher**：https://github.com/AzimoLabs/ConditionWatcher
 
 自动测试框架
@@ -484,6 +574,14 @@ VR Player for android
 
 ---
 
+**aurora-imui**：https://github.com/jpush/aurora-imui
+
+通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
+
+<img src="https://raw.githubusercontent.com/huangminlinux/resource/master/IMUIPick%402x.png" width="600" />
+
+---
+
 **Applozic-Android-SDK**：https://github.com/AppLozic/Applozic-Android-SDK
 
 安卓实时聊天框架
@@ -510,6 +608,14 @@ PalDB is an embeddable write-once key-value store written in Java.
 **NightModel**: https://github.com/achenglike/NightModel
 
 a night model lib for easy change app's night theme
+
+---
+
+**Colors**: https://github.com/marverenic/Colors
+
+换肤框架
+
+<img src="https://github.com/marverenic/Colors/raw/master/preview.gif" width="320"/>
 
 ---
 

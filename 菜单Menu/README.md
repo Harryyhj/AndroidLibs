@@ -6,6 +6,54 @@
 
 ---
 
+**MaterialFabSpeedDial**: https://github.com/kobakei/MaterialFabSpeedDial
+
+Android UI library of FAB speed dial
+
+<img src="https://user-images.githubusercontent.com/900756/27232285-7d558634-52f0-11e7-8bc7-19e8ca87c182.png" width="320"/> <img src="https://user-images.githubusercontent.com/900756/27232289-7ed284ee-52f0-11e7-81e4-41d845295129.png" width="320"/>
+
+---
+
+**AnnularMenuView**: https://github.com/DingMouRen/AnnularMenuView
+
+基于Material Design设计的环形菜单控件
+
+<img src="https://github.com/DingMouRen/AnnularMenuView/raw/master/screenshot/demo3.gif" width="320"/>
+
+---
+
+**quickaction**: https://github.com/piruin/quickaction
+
+Quick Action is a small android library for easy create Tooltips with some action or just as decoration
+
+<img src="https://github.com/piruin/quickaction/raw/master/asset/demo.gif" width="320"/>
+
+---
+
+**floatingMenu**: https://github.com/rjsvieira/floatingMenu
+
+floatingMenu
+
+<img src="https://github.com/rjsvieira/FloatingMenu/raw/master/images/expand_open_close.gif" width="320"/>
+
+---
+
+**ExpandableMenu**: https://github.com/anshulagarwal06/ExpandableMenu
+
+ExpandableMenu
+
+<img src="https://raw.githubusercontent.com/anshulagarwal06/ExpandableMenu/master/ExpendableMenu.gif" width="320"/>
+
+---
+
+**HorizontalScrollMenu**: https://github.com/MorochoRochaDarwin/HorizontalScrollMenu
+
+基于 RecyclerView 的横向滑动菜单
+
+<img src="https://cloud.githubusercontent.com/assets/15864336/23817168/0750bcb6-05bf-11e7-9095-d380da6b408d.png" width="320"/> <img src="https://cloud.githubusercontent.com/assets/15864336/23817166/074cf022-05bf-11e7-8c73-c3417957b1c9.png" width="320"/>
+
+---
+
 **CircleMenu**: https://github.com/ImangazalievM/CircleMenu
 
 漂亮的 Android 圆形菜单

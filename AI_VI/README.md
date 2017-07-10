@@ -12,6 +12,14 @@ awesome-tensorflow
 
 ---
 
+**mnist-android-tensorflow**: https://github.com/mari-linhares/mnist-android-tensorflow
+
+Android TensorFlow MNIST 数据库数字识别
+
+<img src="https://raw.githubusercontent.com/mari-linhares/mnist-android-tensorflow/master/images/demo.png" width="640"/>
+
+---
+
 **AndroidTensorFlowMachineLearningExample**: https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample
 
 Android TensorFlow MachineLearning Example
@@ -41,6 +49,14 @@ TensorFlow Android Camera Demo
 基于 Java 实现的轻量级推荐系统
 
 <img src="https://camo.githubusercontent.com/4cb8d6593d7a024381b7ce17590a6cabdc2c4999/687474703a2f2f6c69627265632e6e65742f696d616765732f6d6f64756c65732e6a7067" width="400"/> <img src="https://camo.githubusercontent.com/fd06f80ea182ed49a73d54dffecb19b548463a52/687474703a2f2f6c69627265632e6e65742f696d616765732f70726f6365647572652e6a7067" width="400"/>
+
+---
+
+**Cognitive-Face-Android**: https://github.com/Microsoft/Cognitive-Face-Android
+
+微软出品的人脸识别库
+
+<img src="https://github.com/Microsoft/Cognitive-Face-Android/blob/master/SampleScreenshots/SampleRunning3.png" width="300"/>
 
 ---
 

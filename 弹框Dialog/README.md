@@ -6,6 +6,70 @@
 
 ---
 
+**Swipe-To-Dismiss-Dialog**: https://github.com/andreilisun/Swipe-To-Dismiss-Dialog
+
+Swipe-To-Dismiss-Dialog
+
+<img src="https://github.com/andreilisun/Swipe-To-Dismiss-Dialog/raw/master/art/success_dialog.gif" width="320" />
+
+---
+
+**ViewTooltip**: https://github.com/florent37/ViewTooltip
+
+Android View Tooltips，目前来看做的最漂亮的
+
+<img src="https://raw.githubusercontent.com/florent37/ViewTooltip/master/medias/autoHide.gif" width="320" />
+
+---
+
+**Sneaker**: https://github.com/Hamadakram/Sneaker
+
+自定义弹窗
+
+<img src="https://github.com/Hamadakram/Sneaker/blob/master/app/Sneaker.png?raw=true" width="320" />
+
+---
+
+**PopsTabView**: https://github.com/ccj659/PopsTabView
+
+PopsTabView是个filter容器,他可以快速,构建不同筛选样式,自由组合成一组tab
+
+<img src="https://github.com/ccj659/PopsTabView/raw/master/popsTabview_gif_0.gif" width="320" />
+
+---
+
+**SearchableSpinner**: https://github.com/MdFarhanRaja/SearchableSpinner
+
+支持搜索的spinner
+
+<img src="https://cloud.githubusercontent.com/assets/18304656/23259376/d470d6aa-f9f2-11e6-98f1-679f1e32af8f.gif" width="320" />
+
+---
+
+**SearchableSpinner**: https://github.com/miteshpithadiya/SearchableSpinner
+
+支持搜索的spinner
+
+<img src="https://raw.githubusercontent.com/miteshpithadiya/SearchableSpinner/master/searchablespinnerlibrary/src/main/res/nobleltevzwLMY47XMeditab02192016201518.gif" width="320" />
+
+---
+
+**dev-alert-android**: https://github.com/garena/dev-alert-android
+
+轻量级的消息提示框
+
+<img src="https://camo.githubusercontent.com/5885d257147e129bf372bb78bf7976c7c433c10c/687474703a2f2f692e696d6775722e636f6d2f6c50544c366f702e676966" width="320" />
+
+---
+
+**DroidDialog**: https://github.com/droidbyme/DroidDialog
+
+Android Library for showing Material Dialog with little customization
+
+<img src="https://raw.githubusercontent.com/droidbyme/DroidDialog/master/app/src/main/assets/device-2017-04-12-193622.png" width="270" /> <img src="https://raw.githubusercontent.com/droidbyme/DroidDialog/master/app/src/main/assets/device-2017-04-12-193442.png" width="270" /> <img src="https://raw.githubusercontent.com/droidbyme/DroidDialog/master/app/src/main/assets/device-2017-04-12-195446.png" width="270" />
+
+---
+
 **fancyDialog**: https://github.com/geniusforapp/fancyDialog
 
 一个好看的 Dialog
@@ -46,11 +110,27 @@ This dialog can flick and make it easy to dismiss sensuously
 
 ---
 
+**FabulousFilter**: https://github.com/Krupen/FabulousFilter
+
+选项过滤器，Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa
+
+<img src="https://raw.githubusercontent.com/Krupen/FabulousFilter/master/newDemo1.gif" width="320" /> <img src="https://raw.githubusercontent.com/Krupen/FabulousFilter/master/newDemo2.gif" width="320" />
+
+---
+
 **BottomDialog**: https://github.com/shaohui10086/BottomDialog
 
 BottomDialog 是一个通过 DialogFragment 实现的底部弹窗布局，并且支持弹出动画，支持任意布局 http://shaohui.me
 
 <img src="https://raw.githubusercontent.com/shaohui10086/BottomDialog/master/preview/bottom_dialog_share.gif" width="320" /> <img src="https://raw.githubusercontent.com/shaohui10086/BottomDialog/master/preview/bottom_dialog_edit.gif" width="320" />
+
+---
+
+**search-dialog**: https://github.com/mirrajabi/search-dialog
+
+自定义搜索框
+
+<img src="https://cloud.githubusercontent.com/assets/8886687/26155004/fc0ee574-3b26-11e7-9bb8-973eaa5d26f6.jpg" width="640" />
 
 ---
 
@@ -219,6 +299,14 @@ This is quite simple toast library, that make it easier to show and create custo
 Magic Toast
 
 <img src="https://cloud.githubusercontent.com/assets/16832215/16327497/20a467be-3a02-11e6-892d-0870a95c4246.jpg" width="320" />
+
+---
+
+**LGSnackbar**: https://github.com/loregr/LGSnackbar
+
+好看的 Snackbar
+
+<img src="https://github.com/loregr/LGSnackbar/raw/master/media/demo.gif" width="320" />
 
 ---
 

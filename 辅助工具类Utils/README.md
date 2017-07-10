@@ -18,6 +18,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**Lightweight-Stream-API**: https://github.com/aNNiMON/Lightweight-Stream-API
+
+java 7 及以下使用Stream api
+
+---
+
 **okio**: https://github.com/square/okio
 
 A modern I/O API for Java http://square.github.io/okio/1.x/okio
@@ -33,6 +39,12 @@ Based one Java Pair this library offers Triples, Quadriples and more (3 to 10 it
 **SQLite2XL**: https://github.com/androidmads/SQLite2XL
 
 Library to Convert SQLite to Excel
+
+---
+
+**jsoup-annotations**: https://github.com/fcannizzaro/jsoup-annotations
+
+Java JSOUP 标注方案，不用自己费劲解析了
 
 ---
 
@@ -60,9 +72,41 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**DateTimeUtils**: https://github.com/thunder413/DateTimeUtils
+
+时间工具
+
+---
+
+**android-shake-detector**: https://github.com/safetysystemtechnology/android-shake-detector
+
+Android 晃动检测小工具
+
+---
+
+**shortcut-helper**: https://github.com/marcoscgdev/shortcut-helper
+
+An android library to create the new Android 7.1 shortcuts easily
+
+<img src="https://raw.githubusercontent.com/marcoscgdev/shortcut-helper/master/screenshots/IMG_20170502_122417.jpg" width="320"/>
+
+---
+
 **CommonPrintProvider**: https://github.com/GrassQing/CommonPrintProvider
 
 通用型热敏打印机接口（wifi，蓝牙）
+
+---
+
+**wcdb**: https://github.com/Tencent/wcdb
+
+微信数据库组件
+
+---
+
+**SQLiteToExcel**: https://github.com/li-yu/SQLiteToExcel
+
+SQLiteToExcel 库整合了 Apache POI 和一些基本的数据库查询操作，使得 SQLite 和 Excel 之间相互转换更加便捷
 
 ---
 
@@ -79,6 +123,18 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 一个能让你了解所有函数调用顺序的Android库（无需侵入式代码）
 
 <img src="https://camo.githubusercontent.com/7f9fe86c1371f5435aafb998df2d6952fa2ea000/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313835373838372d656236313962313831356436346261332e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320"/>
+
+---
+
+**StrictModeCompat**: https://github.com/kirich1409/StrictModeCompat
+
+低版本使用StrictMode
+
+---
+
+**IsInstalled**: https://github.com/Morxander/IsInstalled
+
+判断一个安卓应用是否安装
 
 ---
 
@@ -120,6 +176,14 @@ Easily edit your build.prop file on Android
 
 ---
 
+**ResourceInspector**: https://github.com/nekocode/ResourceInspector
+
+从一个大型项目中快速找到当前页面元素用到的布局文件
+
+<img src="https://github.com/nekocode/ResourceInspector/raw/master/img/screenshot.png" width="320"/>
+
+---
+
 **redexer**: https://github.com/plum-umd/redexer
 
 The Redexer binary instrumentation framework for Dalvik bytecode
@@ -147,6 +211,18 @@ Get running processes on Android
 **HFunc**: https://github.com/TangXiaoLv/HFunc
 
 Java实现高阶函数，类似Python，支持串行并行计算，适用于Java和Android
+
+---
+
+**r2d2**: https://github.com/moldedbits/r2d2
+
+安卓数据加密解密
+
+---
+
+**android-api-SecureKeys**: https://github.com/saantiaguilera/android-api-SecureKeys
+
+简单好用的安卓数据加密存储
 
 ---
 
@@ -216,12 +292,6 @@ An android wrapper library to mathjs.org javascript library
 
 ---
 
-**Napkin**: https://github.com/AleksanderMielczarek/Napkin
-
-Common scopes and qualifiers for Dagger 2
-
----
-
 **ThinRPlugin**: https://github.com/mogujie/ThinRPlugin
 
 apk 瘦身之去除android中的R.class
@@ -241,6 +311,14 @@ apk 瘦身之去除android中的R.class
 Simple implementation of ForceTouch on Android
 
 <img src="https://camo.githubusercontent.com/ba1666aa84ec083accb9fc982e961e7a05fd0361/68747470733a2f2f7331342e706f7374696d672e6f72672f3573337363716639742f73637265656e2e706e67" width="320"/>
+
+---
+
+**FingerprintIdentify**: https://github.com/uccmawei/FingerprintIdentify
+
+APP一秒接入指纹识别SDK，0奔溃，0闪退，炒鸡稳定！额外支持三星和魅族6.0以下系统
+
+<img src="https://github.com/uccmawei/FingerprintIdentify/raw/master/other/QRCode_en.png" width="320"/>
 
 ---
 
@@ -360,9 +438,21 @@ Light version of the concept of ButterKnife
 
 ---
 
+**location-tracker-background**: https://github.com/safetysystemtechnology/location-tracker-background
+
+后台实时获取追踪
+
+---
+
 **SamLocationAndGeocoding**: https://github.com/kingsammalik/SamLocationAndGeocoding
 
 跟踪用户位置地址
+
+---
+
+**LocationManager**: https://github.com/yayaa/LocationManager
+
+Simplify getting user's location for Android
 
 ---
 
@@ -476,6 +566,38 @@ Fragment 参数传递
 
 ---
 
+**FingerprintIdentify**: https://github.com/uccmawei/FingerprintIdentify
+
+安卓指纹识别库（安卓官方+三星SDK+魅族SDK）
+
+<img src="https://raw.githubusercontent.com/uccmawei/FingerprintIdentify/master/demo.png" width="320"/>
+
+---
+
+**android-fingerprint-authentication**: https://github.com/multidots/android-fingerprint-authentication
+
+指纹集成，管理工具
+
+<img src="https://raw.githubusercontent.com/multidots/android-fingerprint-authentication/master/screens/screen-capture.gif" width="320"/>
+
+---
+
+**FingerprintManager**: https://github.com/JesusM/FingerprintManager
+
+简洁的指纹管理工具
+
+<img src="https://raw.githubusercontent.com/JesusM/FingerprintManager/master/resources/images/sample_light_theme.png" width="320"/> <img src="https://raw.githubusercontent.com/JesusM/FingerprintManager/master/resources/images/sample_dark_theme.png" width="320"/>
+
+---
+
+**FingerprintAuthHelper**: https://github.com/pro100svitlo/FingerprintAuthHelper
+
+指纹认证
+
+<img src="https://raw.githubusercontent.com/pro100svitlo/FingerprintAuthHelper/master/screenshots/sc_0.png" width="320"/> <img src="https://raw.githubusercontent.com/pro100svitlo/FingerprintAuthHelper/master/screenshots/sc_1.png" width="320"/>
+
+---
+
 **FingerprintAuthDemo**: https://github.com/pro100svitlo/FingerprintAuthDemo
 
 指纹认证
@@ -574,6 +696,18 @@ java依赖注入
 
 ---
 
+**DaggerAutoInject**: https://github.com/florent37/DaggerAutoInject
+
+DaggerAutoInject
+
+---
+
+**Napkin**: https://github.com/AleksanderMielczarek/Napkin
+
+Common scopes and qualifiers for Dagger 2
+
+---
+
 **dagger**: https://github.com/google/dagger
 
 传说中的 dagger2，依赖注入
@@ -642,9 +776,35 @@ Android 上使用 NDK 编写 OpenGL ES 3.0
 
 ---
 
+**USB-Device-Info---Android**: https://github.com/alt236/USB-Device-Info---Android
+
+从linux层和android层获取usb设备信息的应用
+
+---
+
+**AndroidUsbCamera**: https://github.com/quanhua92/AndroidUsbCamera
+
+Use USB Webcam on non-rooted Android devices with UVCCamera library from saki4510t(above)
+
+---
+
+**libaums**: https://github.com/magnusja/libaums
+
+在非root设备上访问usb大容量存储设备
+
+---
+
 **UsbSerial**: https://github.com/felHR85/UsbSerial
 
 Usb serial controller for Android
+
+---
+
+**OkDeepLink**: https://github.com/HongJun2046/OkDeepLink
+
+Android 轻量级 DeepLink 解决方案
+
+<img src="https://raw.githubusercontent.com/HongJun2046/OkDeepLink/master/snapshot/intercept_preview.png" width="320"/>
 
 ---
 
@@ -653,6 +813,12 @@ Usb serial controller for Android
 Android Router 框架，取名为AntCaves，中文名”蚁穴“
 
 <img src="https://raw.githubusercontent.com/themores/AntCaves/master/img/IMG_3063(20170311-183321).jpg" width="320"/>
+
+---
+
+**Meepo**: https://github.com/nekocode/Meepo
+
+实现仿 Retrofit 的跳转路由
 
 ---
 
@@ -773,6 +939,24 @@ Endoscope - RTSP live video streamer for android devices via Wi-Fi
 Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Android Couchbase databases in Chrome
 
 <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-Debug-Database/master/assets/debugdb.png" width="640"/>
+
+---
+
+**tray**: https://github.com/grandcentrix/tray
+
+多进程安全的SharedPreferences
+
+---
+
+**binaryprefs**: https://github.com/iamironz/binaryprefs
+
+Rapidly fast implementation of SharedPreferences which stores each preference in files separately, performs disk IO via NIO with memory mapped byte buffers and works IPC (between processes)
+
+---
+
+**prefdata**: https://github.com/xelevra/prefdata
+
+Pref Data – the Android SharedPreferences wrapper
 
 ---
 
@@ -920,6 +1104,14 @@ Blorm is a field validation lib for android
 
 ---
 
+**IpcEventBus**: https://github.com/NewtronLabs/IpcEventBus
+
+进程通信事件总线
+
+<img src="https://github.com/NewtronLabs/IpcEventBus/raw/master/Diagram.png" width="400"/>
+
+---
+
 **Hermes**: https://github.com/Xiaofei-it/Hermes
 
 简单易用的安卓进程间通信IPC框架
@@ -959,6 +1151,18 @@ eventbus3 可用事件跳转 Android Studio 插件
 **EventBus**: https://github.com/greenrobot/EventBus
 
 Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. http://greenrobot.org/eventbus/
+
+---
+
+**sdk3rd**: https://github.com/czy1121/sdk3rd
+
+第三方SDK集成库，授权/分享/支付
+
+---
+
+**EasyPay**: https://github.com/xiong-it/EasyPay
+
+简单易用的第三方可扩展支付框架
 
 ---
 
@@ -1055,6 +1259,12 @@ facebook 出品的网速监测
 **AndroidRandom**: https://github.com/slmyldz/AndroidRandom
 
 Simple random data generator for Android
+
+---
+
+**Lyra**: https://github.com/Fondesa/Lyra
+
+安卓组件状态保存及恢复
 
 ---
 
@@ -1276,6 +1486,14 @@ Android Studio 翻译插件,可以将英文翻译为中文.
 
 ---
 
+**Aria**: https://github.com/AriaLyy/Aria
+
+文件下载管理
+
+<img src="https://github.com/AriaLyy/DownloadUtil/raw/master/img/download_img.gif" width="640" />
+
+---
+
 **lib_download**: https://github.com/wangdanlizhiyun/lib_download
 
 处理异步下载的库
@@ -1285,12 +1503,6 @@ Android Studio 翻译插件,可以将英文翻译为中文.
 **Fuse**: https://github.com/kittinunf/Fuse
 
 Kotlin 语言编写的安卓 cache 库
-
----
-
-**ObservableScheduler**: https://github.com/jiang111/ObservableScheduler
-
-更好的管理线程间跳转的库
 
 ---
 
@@ -1356,18 +1568,6 @@ AsyncTask 替代者
 
 ---
 
-**UVCCamera**: https://github.com/saki4510t/UVCCamera
-
-library and sample to access to UVC web camera on non-rooted Android device
-
----
-
-**AndroidUsbCamera**: https://github.com/quanhua92/AndroidUsbCamera
-
-Use USB Webcam on non-rooted Android devices with UVCCamera library from saki4510t(above)
-
----
-
 **ParcelCheck**: https://github.com/Commit451/ParcelCheck
 
 Simple test to see if all models in project correctly implement Parcelable
@@ -1395,6 +1595,22 @@ The Android Support Library for NFC
 **android-UCToast**: https://github.com/liaohuqiu/android-UCToast
 
 开机自动启动的 Service 监听剪切板。复制之后，在屏幕顶部显示一个悬浮窗，显示剪贴板内容。点击悬浮窗，跳转到 Activity 页面显示
+
+---
+
+**HideKeyboard**: https://github.com/yingLanNull/HideKeyboard
+
+仿iOS输入法点击输入框以外区域 自动隐藏软键盘轻量级库
+
+<img src="https://raw.githubusercontent.com/yingLanNull/HideKeyboard/master/show/show.gif" width="320" />
+
+---
+
+**AwesomeKeyboard**: https://github.com/hoanganhtuan95ptit/AwesomeKeyboard
+
+emoticons, sticker, photo and color keyboard
+
+<img src="https://github.com/hoanganhtuan95ptit/AwesomeKeyboard/raw/master/output/Screenshot_2017-07-06-12-54-22.png" width="320" /> <img src="https://github.com/hoanganhtuan95ptit/AwesomeKeyboard/raw/master/output/Screenshot_2017-07-06-12-55-15.png" width="320" />
 
 ---
 
@@ -1455,6 +1671,12 @@ Composition over inheritance for Android components like Activity or Fragment
 **android-classyshark**: https://github.com/google/android-classyshark
 
 apk 反编译工具
+
+---
+
+**EasySharedPreference**: https://github.com/kingfisherphuoc/EasySharedPreference
+
+简单易用的可存储任意对象的 SharedPreference
 
 ---
 
@@ -1584,6 +1806,14 @@ Router activities
 
 ---
 
+**Sherlock**: https://github.com/ajitsing/Sherlock
+
+异常捕获
+
+<img src="https://github.com/ajitsing/ScreenShots/blob/master/sherlock/sherlock_demo.gif" width="320" />
+
+---
+
 **AutoCrashReporter**: https://github.com/devsideal/AutoCrashReporter
 
 ACR is an android library to simplify crash detection while your app is under development, crash will be automatically detect by the library then app tester/user can easily send the crash report on one click to developer that will help him to fix the issue
@@ -1606,6 +1836,14 @@ Simple and effective bug & crash reporting tool for Android apps http://bugtags.
 
 ---
 
+**PermissionManager**:https://github.com/karanchuri/PermissionManager
+
+搜索清单权限并动态申请
+
+<img src="https://github.com/karanchuri/PermissionManager/raw/master/demo.gif?raw=true" width="320" />
+
+---
+
 **PermissionGrantor**: https://github.com/dfqin/PermissionGrantor
 
 一行代码搞定Android6.0动态权限授权
@@ -1623,6 +1861,12 @@ Permission Manager is easily manage Android Marshmallow and nougat runtime permi
 **PermissionManager**: https://github.com/AdamMc331/PermissionsManager
 
 PermissionsManager library that has base activity and fragment that extend from AppCompatActivity to ease with the handling of runtime permissions
+
+---
+
+**PermissionHelper**: https://github.com/pankaj89/PermissionHelper
+
+PermissionHelper for Android M
 
 ---
 
@@ -1715,6 +1959,12 @@ permissionHelper for Android M
 **EasyPermissions**: https://github.com/lalosoft/EasyPermissions
 
 A simple android library to request permissions in runtime
+
+---
+
+**EffortlessPermissions**: https://github.com/DreaminginCodeZH/EffortlessPermissions
+
+An Android permission library extending Google's EasyPermissions with convenient additions.
 
 ---
 
@@ -1822,6 +2072,20 @@ App-local sql logging with viewer activity
 
 ---
 
+**ALog**：https://github.com/Blankj/ALog
+
+一个精简、全面、方便的AndroidLog库--ALog
+
+<img src="https://raw.githubusercontent.com/Blankj/ALog/master/img/detail.png" width="640" />
+
+---
+
+**EzyLogger**：https://github.com/afiqiqmal/EzyLogger
+
+Simple Logger for Android
+
+---
+
 **FLogger**：https://github.com/cyfonly/FLogger
 
 基于双缓冲队列、多刷盘机制的超轻量级 java 日志
@@ -1845,6 +2109,22 @@ Simple Android library which filters Logs, for example by keeping only ERROR LOG
 Android logger, simple and pretty, powerful and flexible, all you need is here
 
 <img src="https://raw.githubusercontent.com/elvishew/XLog/master/images/classic_log.png" width="640" />
+
+---
+
+**debugkit**：https://github.com/hulab/debugkit
+
+Android 浮动 Debug 工具箱，直接在浮动窗口执行 Android 测试功能
+
+<img src="https://github.com/hulab/debugkit/raw/master/resources/screenshot.png" width="320" />
+
+---
+
+**DebugOverlay-Android**：https://github.com/Manabu-GT/DebugOverlay-Android
+
+App 端，查看 Logcat 信息
+
+<img src="https://raw.githubusercontent.com/Manabu-GT/DebugOverlay-Android/master/art/overlay_with_configurations.png" width="320" />
 
 ---
 
@@ -1885,6 +2165,14 @@ Android logger, simple and pretty, powerful and flexible, all you need is here
 jlog是一款针对Android开发者的日志工具
 
 <img src="https://camo.githubusercontent.com/753ce906b6ba7cff9d2d0c3e66c783139e934bfd/687474703a2f2f3778697a65382e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6a6c6f675f73616d706c652e676966" width="640" />
+
+---
+
+**Android-PLog**: https://github.com/JumeiRdGroup/Android-PLog
+
+A Pure, Pretty and Powerful logging library for android
+
+<img src="https://github.com/JumeiRdGroup/Android-PLog/raw/master/ScreenShot.png" width="640" />
 
 ---
 
@@ -2033,6 +2321,18 @@ A memory leak detection library for Android and Java.
 
 ---
 
+**AndroidPerformanceTools**: https://github.com/D-clock/AndroidPerformanceTools
+
+检测ANR
+
+---
+
+**ANR-WatchDog**: https://github.com/SalomonBrys/ANR-WatchDog
+
+ANR 卡顿检测
+
+---
+
 **BlockCanaryEx**: https://github.com/lqcandqq13/BlockCanaryEx
 
 blockcanary 升级版
@@ -2063,15 +2363,15 @@ A modern JSON library for Android and Java.
 
 ---
 
-**LocationManager**: https://github.com/yayaa/LocationManager
-
-Simplify getting user's location for Android
-
----
-
 **MarsDaemon**: https://github.com/Marswin/MarsDaemon
 
 一个轻量级的库，配置几行代码，就可以实现在 android 上实现进程常驻，也就是在系统强杀下，以及 360 获取 root 权限下，clean master 获取 root 权限下都无法杀死进程
+
+---
+
+**AndroidBluetoothLibrary**: https://github.com/douglasjunior/AndroidBluetoothLibrary
+
+AndroidBluetoothLibrary
 
 ---
 

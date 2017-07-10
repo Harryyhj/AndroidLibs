@@ -22,11 +22,67 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**Fun**: https://github.com/PHELAT/Fun
+
+一个有趣的展开关闭动画
+
+<img src="https://github.com/PHELAT/Fun/raw/master/screenshot/screenshot.gif" width="320" />
+
+---
+
+**DynamicAnimationExample**: https://github.com/graviton57/DynamicAnimationExample
+
+A simple spring animation
+
+<img src="https://raw.githubusercontent.com/graviton57/DynamicAnimationExample/master/media/example.gif" width="320" />
+
+---
+
+**PolygonDrawingUtil**: https://github.com/stkent/PolygonDrawingUtil
+
+Android 多边形绘制组件，做的很漂亮哦~ 用来做动态图表会很有帮助
+
+<img src="https://raw.githubusercontent.com/stkent/PolygonDrawingUtil/master/assets/demo.gif" width="320" />
+
+---
+
+**AndroidCustomView**: https://github.com/lygttpod/AndroidCustomView
+
+圆圈泡泡上升动画
+
+<img src="https://camo.githubusercontent.com/38ec9160cb247a45f798b3476f3c8ede232ba6ea/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323035373530312d643731306263613165313636666263342e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="400" />
+
+---
+
+**Grav**: https://github.com/glomadrian/Grav
+
+Android 粒子动画效果
+
+<img src="https://github.com/glomadrian/Grav/raw/master/art/wave.gif" width="270" /> <img src="https://github.com/glomadrian/Grav/raw/master/art/grav.gif" width="270" /> <img src="https://github.com/glomadrian/Grav/raw/master/art/falcon.gif" width="270" />
+
+---
+
+**ShootRefreshView**: https://github.com/dinuscxj/ShootRefreshView
+
+快手Android客户端的一个刷新动画
+
+<img src="https://raw.githubusercontent.com/dinuscxj/ShootRefreshView/master/Preview/ShootRefreshView.gif?width=300" width="270" />
+
+---
+
 **spruce-android**: https://github.com/willowtreeapps/spruce-android
 
 Android 动画管理库，辅助你管理动画效果
 
 <img src="https://raw.githubusercontent.com/willowtreeapps/spruce-android/master/imgs/recycler-example.gif" width="320" />
+
+---
+
+**Apple-Music-Animation**: https://github.com/rahulrj/Apple-Music-Animation
+
+苹果手机音乐动画效果
+
+<img src="https://github.com/rahulrj/Apple-Music-Animation/raw/master/animation_demo.gif" width="320" />
 
 ---
 

@@ -6,9 +6,25 @@
 
 ---
 
+**android-ringtone-picker**: https://github.com/kevalpatel2106/android-ringtone-picker
+
+android-ringtone-picker
+
+<img src="https://raw.githubusercontent.com/kevalpatel2106/android-ringtone-picker/master/app/demo.gif" width="270" />
+
+---
+
+**CarouselPicker**: https://github.com/GoodieBag/CarouselPicker
+
+图标和文本选择
+
+<img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_image_480.gif" width="320" /> <img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_text_480.gif" width="320" />
+
+---
+
 **ScrollChoice**: https://github.com/webianks/ScrollChoice
 
- Scrollable view which can be used to give different choices to user with nice ui
+Scrollable view which can be used to give different choices to user with nice ui
 
 <img src="https://raw.githubusercontent.com/webianks/ScrollChoice/master/screens/screen_one.png" width="320" /> <img src="https://raw.githubusercontent.com/webianks/ScrollChoice/master/screens/screen_two.png" width="320" />
 
@@ -19,6 +35,14 @@
 Bubble-Picker
 
 <img src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="640" />
+
+---
+
+**NumberPadTimePicker**: https://github.com/philliphsu/NumberPadTimePicker
+
+时间选择器
+
+<img src="https://github.com/philliphsu/NumberPadTimePicker/raw/master/screenshots/2.png" width="300" /> <img src="https://github.com/philliphsu/NumberPadTimePicker/raw/master/screenshots/4.png" width="300" />
 
 ---
 
@@ -117,6 +141,46 @@ TagSelectorView
 Android library for Date and Time Picker in same dialog
 
 <img src="https://raw.githubusercontent.com/J-Jamet/Android-SwitchDateTimePicker/master/art/demo1.gif" width="270" /> <img src="https://raw.githubusercontent.com/J-Jamet/Android-SwitchDateTimePicker/master/art/demo2.gif" width="540" />
+
+---
+
+**DateRangePicker**: https://github.com/savvisingh/DateRangePicker
+
+Date Range Picker is a Calender Picker View to show a Customized Date Range Picker with improved UI
+
+<img src="https://github.com/savvisingh/DateRangePicker/raw/master/device-2017-06-23-154757.png" width="320" />
+
+---
+
+**Material-Calendar-View**: https://github.com/Applandeo/Material-Calendar-View
+
+MD 风格的日历组件
+
+<img src="https://cloud.githubusercontent.com/assets/2614225/26537866/12b530f6-4443-11e7-910e-235b1267f2cd.png" width="320" /> <img src="https://cloud.githubusercontent.com/assets/2614225/26538163/e40730cc-4444-11e7-897d-ca45d7289a0f.png" width="320" />
+
+---
+
+**MosaicCalendarView**: https://github.com/tiagohm/MosaicCalendarView
+
+GitHub 贡献图风格日历
+
+<img src="https://github.com/tiagohm/MosaicCalendarView/raw/master/1.png?raw=true" width="600" />
+
+---
+
+**EasyCalendar**: https://github.com/shichaohui/EasyCalendar
+
+可进行 UI 定制的日历组件，轻松完成签到日历功能
+
+<img src="https://github.com/shichaohui/EasyCalendar/raw/master/screeshot/screenshot_main_gif.gif" width="320" />
+
+---
+
+**CalendarView**: https://github.com/mahendramahi/CalendarView
+
+一款精致日历
+
+<img src="https://github.com/mahendramahi/CalendarView/raw/master/app/src/main/Screen1.png" width="320" />
 
 ---
 
@@ -331,9 +395,33 @@ a better DropDownMenu solution, 完整的筛选器解决方案
 
 ---
 
+**android-file-chooser**: https://github.com/Arjun-sna/android-file-chooser
+
+Android library to provide chooser for files in external storage
+
+<img src="https://camo.githubusercontent.com/8733ff51052837004d3141a59cc6f00ac41e1da1/68747470733a2f2f61726a756e2d736e612e6769746875622e696f2f7261772f66696c6563686f6f7365725f64656d6f5f312e6a7067" width="320"/>
+
+---
+
+**EasyFilePickerDialog**: https://github.com/kingfisherphuoc/EasyFilePickerDialog
+
+EasyFilePickerDialog
+
+<img src="https://cloud.githubusercontent.com/assets/962484/26396277/ee1c9c60-409c-11e7-9354-7112f7032f79.png" width="320"/> <img src="https://cloud.githubusercontent.com/assets/962484/26397011/1b43c6a8-409f-11e7-886d-b3fde933d991.png" width="320"/>
+
+---
+
+**Android-FileBrowser-FilePicker**: https://github.com/adityak368/Android-FileBrowser-FilePicker
+
+文件浏览，选择
+
+<img src="https://cloud.githubusercontent.com/assets/19688735/25305189/670232ec-2794-11e7-819f-b92f487b3075.png" width="270"/> <img src="https://cloud.githubusercontent.com/assets/19688735/25305188/6701de1e-2794-11e7-981f-7d6d0124b2b2.png" width="270"/> <img src="https://cloud.githubusercontent.com/assets/19688735/25305191/67038f8e-2794-11e7-8777-4bb0db870c31.png" width="270"/> 
+
+---
+
 **Android-FilePicker**: https://github.com/DroidNinja/Android-FilePicker
 
-Photopicker and document picker for android
+Photopicker and 文件 picker for android
 
 <img src="https://camo.githubusercontent.com/b51eec20abd3cf684fe86f30ddb360590bf69511/687474703a2f2f692e696d6775722e636f6d2f577857754a4b6e2e706e67" width="270"/> <img src="https://camo.githubusercontent.com/8b8f68b876211518fc90beb9fa200e585943b35e/687474703a2f2f692e696d6775722e636f6d2f54444942784c592e706e67" width="270"/> <img src="https://camo.githubusercontent.com/894c59ad1df8a27e39f3a4e197d4c2820bcb92e3/687474703a2f2f692e696d6775722e636f6d2f48726d554576532e706e67" width="270"/> 
 
@@ -351,7 +439,15 @@ Selecting directories/files made a lot easier
 
 文件选择过滤
 
-<img src="https://camo.githubusercontent.com/6f999eee35f74975a3957078ee7cd44ccbc012fa/68747470733a2f2f6165726f7969642e66696c65732e776f726470726573732e636f6d2f323031372f30332f70686f746f5f323031372d30332d30315f31392d35352d33382e6a7067" width="270"/> <img src="https://camo.githubusercontent.com/f49da1b2ed3d11701d752af50a21dbe271818f47/68747470733a2f2f6165726f7969642e66696c65732e776f726470726573732e636f6d2f323031372f30332f70686f746f5f323031372d30332d30315f31392d35352d35352e6a7067" width="270"/> <img src="https://camo.githubusercontent.com/1cdb06d1c9e83dfb5d3eb395851e923838add7e4/68747470733a2f2f6165726f7969642e66696c65732e776f726470726573732e636f6d2f323031372f30332f70686f746f5f323031372d30332d30315f31392d35352d34362e6a7067" width="270"/> 
+<img src="https://camo.githubusercontent.com/6f999eee35f74975a3957078ee7cd44ccbc012fa/68747470733a2f2f6165726f7969642e66696c65732e776f726470726573732e636f6d2f323031372f30332f70686f746f5f323031372d30332d30315f31392d35352d33382e6a7067" width="270"/> <img src="https://camo.githubusercontent.com/f49da1b2ed3d11701d752af50a21dbe271818f47/68747470733a2f2f6165726f7969642e66696c65732e776f726470726573732e636f6d2f323031372f30332f70686f746f5f323031372d30332d30315f31392d35352d35352e6a7067" width="270"/> <img src="https://camo.githubusercontent.com/1cdb06d1c9e83dfb5d3eb395851e923838add7e4/68747470733a2f2f6165726f7969642e66696c65732e776f726470726573732e636f6d2f323031372f30332f70686f746f5f323031372d30332d30315f31392d35352d34362e6a7067" width="270"/>
+
+---
+
+**storage-chooser**: https://github.com/codekidX/storage-chooser
+
+效果超赞的文件选择器
+
+<img src="https://camo.githubusercontent.com/6f690f12cf8f8cbf9a1e400fe73a4a3fbc075872/687474703a2f2f692e696d6775722e636f6d2f6e6d71504a6f6b2e676966" width="480"/>
 
 ---
 
@@ -369,6 +465,14 @@ Pick a date or time on Android in style
 
 <img src="https://camo.githubusercontent.com/1467c2b5d209d68aef8ac96cc6bdc28a6c2b1f3d/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f4d6174657269616c4461746554696d655069636b65722f67682d70616765732f696d616765732f646174655f7069636b65722e706e67" width="320" />
 <img src="https://camo.githubusercontent.com/968ac1b84bfe4514fabf2c25c94a1381d3af3973/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f4d6174657269616c4461746554696d655069636b65722f67682d70616765732f696d616765732f74696d655f7069636b65722e706e67" width="320" />
+
+---
+
+**CountryCodePicker**: https://github.com/joielechong/CountryCodePicker
+
+国家码选择器
+
+<img src="https://camo.githubusercontent.com/431f1b94b167b068ed7d6ceae69b93b0c18d9131/68747470733a2f2f6661726d362e737461746963666c69636b722e636f6d2f353638362f33303938323838353733325f323934656539353064375f7a2e6a7067" width="320" />
 
 ---
 
@@ -456,10 +560,34 @@ DatePicker and TimePicker from Google for Android 4.0+ https://android.googlesou
 
 **MaterialDateRangePicker**: https://github.com/borax12/MaterialDateRangePicker
 
-A material Date Range Picker based on wdullaers MaterialDateTimePicker.
+A material Date Range Picker based on wdullaers MaterialDateTimePicker
 
 <img src="https://github.com/borax12/MaterialDateRangePicker/blob/master/screenshots/2.png?raw=true" width="320" />
 <img src="https://github.com/borax12/MaterialDateRangePicker/blob/master/screenshots/3.png?raw=true" width="320" />
+
+---
+
+**AndroidClearChroma**: https://github.com/Kunzisoft/AndroidClearChroma
+
+A material color picker for Android
+
+<img src="https://raw.githubusercontent.com/Kunzisoft/AndroidClearChroma/master/art/screen1.png" width="320" />
+
+---
+
+**android-material-color-picker-dialog**: https://github.com/Pes8/android-material-color-picker-dialog
+
+android-material-color-picker-dialog
+
+<img src="https://raw.githubusercontent.com/Pes8/android-material-color-picker-dialog/master/screenshots/main_portrait_rgb.png" width="320" /> <img src="https://raw.githubusercontent.com/Pes8/android-material-color-picker-dialog/master/screenshots/main_landscape_rgb.png" width="400" />
+
+---
+
+**ColorPickerDialog**: https://github.com/savvisingh/ColorPickerDialog
+
+Android 上的单个或多个颜色选择
+
+<img src="https://raw.githubusercontent.com/savvisingh/ColorPickerDialog/master/17886731_1334483346597970_189921600_o.jpg" width="320" /> <img src="https://raw.githubusercontent.com/savvisingh/ColorPickerDialog/master/17902110_1334483369931301_1363796931_o.jpg" width="320" />
 
 ---
 

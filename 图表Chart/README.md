@@ -6,11 +6,27 @@
 
 ---
 
+**SuitLines**: https://github.com/whataa/SuitLines
+
+一个小巧且高效的线性图表组件
+
+<img src="https://camo.githubusercontent.com/800bb02f19b25ecad453102145bb67d4523536ce/687474703a2f2f6e6f74652e796f7564616f2e636f6d2f7977732f6170692f706572736f6e616c2f66696c652f43323446464235364330463934344539414634333332333537463333463039433f6d6574686f643d646f776e6c6f61642673686172654b65793d3135366262396130386233663466346436616538663564646163343630376662" width="320" /> <img src="https://camo.githubusercontent.com/83049147b4619c23909515c0eb8d218f7fff7cfa/687474703a2f2f6e6f74652e796f7564616f2e636f6d2f7977732f6170692f706572736f6e616c2f66696c652f43433733333337423936413934444134393344364238453237463931303344373f6d6574686f643d646f776e6c6f61642673686172654b65793d6430313135613834393537616366386262613236353035383436306136336439" width="400" />
+
+---
+
 **Android-Simple-Chart**: https://github.com/Kutear/Android-Simple-Chart
 
 简单的Android图表实现
 
 <img src="https://raw.githubusercontent.com/Kutear/Android-Simple-Chart/master/img/p1.png" width="400" /> <img src="https://raw.githubusercontent.com/Kutear/Android-Simple-Chart/master/img/p2.png" width="400" />
+
+---
+
+**ikvStockChart**: https://github.com/wordplat/ikvStockChart
+
+ikvStockChart
+
+<img src="https://raw.githubusercontent.com/wordplat/ikvStockChart/master/Screenshots/S70413-224945.jpg" width="280" /> <img src="https://raw.githubusercontent.com/wordplat/ikvStockChart/master/Screenshots/S70413-225235.jpg" width="280" />
 
 ---
 

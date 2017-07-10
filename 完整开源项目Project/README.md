@@ -6,6 +6,36 @@
 
 ---
 
+**NoticeDog**: https://github.com/bunnyblue/NoticeDog
+
+一个基于NotificationListenerService 的Android通知管理app，可以防止微信消息撤回
+
+---
+
+**android-permission-checker-app**: https://github.com/Arjun-sna/android-permission-checker-app
+
+识别应用中的各种权限
+
+<img src = "https://camo.githubusercontent.com/ea2bd2a4d471b587fb1ee28dfc7a5bda208d7f97/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f7065726d697373696f6e5f6170705f73322e706e67" width = "320"/> <img src = "https://camo.githubusercontent.com/48edd1405c89172e9640030c6f4a369f166d2d88/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f7065726d697373696f6e5f6170705f73332e706e67" width = "320"/>
+
+---
+
+**CNode-android**: https://github.com/shellljx/CNode-android
+
+https://cnodejs.org/ 非官方客户端
+
+<img src = "https://raw.githubusercontent.com/shellljx/CNode-android/master/art/01.jpg" width = "270"/> <img src = "https://raw.githubusercontent.com/shellljx/CNode-android/master/art/01.jpg" width = "270"/> <img src = "https://raw.githubusercontent.com/shellljx/CNode-android/master/art/01.jpg" width = "270"/>
+
+---
+
+**Anti-recall**: https://github.com/JasonQS/Anti-recall
+
+QQ，微信防撤回神器
+
+<img src = "https://github.com/JasonQS/Anti-recall/raw/master/demo/demo01.gif" width = "320"/> <img src = "https://github.com/JasonQS/Anti-recall/raw/master/demo/demo02.gif" width = "320"/>
+
+---
+
 **MessageRelayer**: https://github.com/HaoFeiWang/MessageRelayer
 
 短信转发工具
@@ -170,6 +200,14 @@ A sample Android app which showcases advanced usage of Dagger among other open s
 高仿爱壁纸App | Material Design
 
 <img src="https://github.com/LiuGuiLinAndroid/LoveWallpaper/raw/master/preview/preview1.0.png?raw=true" width="800" />
+
+---
+
+**Mysplash**: https://github.com/WangDaYeeeeee/Mysplash
+
+一款轻量化的第三方Unsplash客户端
+
+<img src="https://raw.githubusercontent.com/WangDaYeeeeee/Mysplash/master/preview/thumbnails/preview_home.png" width="320" /> <img src="https://raw.githubusercontent.com/WangDaYeeeeee/Mysplash/master/preview/thumbnails/preview_drawer.png" width="320" /> 
 
 ---
 
@@ -823,6 +861,30 @@ A third party app for androidweekly.net
 
 ---
 
+**ganguo**: https://github.com/yanyiqun001/ganguo
+
+干果——简洁易用的gank客户端
+
+<img src="https://github.com/yanyiqun001/ganguo/raw/master/screenshots/Screenshot_20170605-165508_%E7%BC%96%E8%BE%91.png?raw=true" width="320" /> <img src="https://github.com/yanyiqun001/ganguo/raw/master/screenshots/Screenshot_20170605-165525_%E7%BC%96%E8%BE%91.png?raw=true" width="320" />
+
+---
+
+**MyGank**: https://github.com/mask-hao/MyGank
+
+一个具有用户登录注册，干货收藏功能的干货集中营第三方客户端。个人学习项目，前端使用Android展示，后端使用javaee中转，数据来源干货集中营
+
+<img src="https://github.com/mask-hao/MyGank/raw/master/screenshot/screenshot1.png" width="320" /> <img src="https://github.com/mask-hao/MyGank/raw/master/screenshot/screenshot4.png" width="320" />
+
+---
+
+**GankGirl**: https://github.com/dalingge/GankGirl
+
+使用Jsoup抓取干货集中营闲读数据, 闲读和gank干货app： http://dalingge.com/2017/05/09/%E4%BD%BF%E7%94%A8Jsoup%E6%8A%93%E5%8F%96%E5%B9%B2%E8%B4%A7%E9%9B%86%E4%B8%AD%E8%90%A5%E9%97%B2%E8%AF%BB%E6%95%B0%E6%8D%AE/
+
+<img src="https://github.com/dalingge/GankGirl/raw/master/screenshots/play.gif" width="320" />
+
+---
+
 **FakeWeather**: https://github.com/li-yu/FakeWeather
 
 『假装看天气』─── 天气预报 & 公交查询 & 资讯阅读 & 妹纸福利 的 Android 客户端
@@ -1165,12 +1227,19 @@ An Android App for Github
 
 ---
 
+**Protein**: https://github.com/gejiaheng/Protein
+
+目前最漂亮的一个 Dribbble 客户端
+
+<img src="https://github.com/gejiaheng/Protein/raw/master/image/screenshot_main.png" width="320" /> <img src="https://github.com/gejiaheng/Protein/raw/master/image/screenshot_shot.png" width="320" />
+
+---
+
 **Watch**: https://github.com/tuesda/Watch
 
 dribbble 客户端
 
-<img src="https://github.com/tuesda/Watch/raw/master/animation/home.gif" width="320" />
-<img src="https://github.com/tuesda/Watch/raw/master/animation/page.gif" width="320" />
+<img src="https://github.com/tuesda/Watch/raw/master/animation/home.gif" width="320" /> <img src="https://github.com/tuesda/Watch/raw/master/animation/page.gif" width="320" />
 
 ---
 
@@ -1312,7 +1381,7 @@ Material Design Notes App
 
 ---
 
-**ZhuanLan**:  https://github.com/bxbxbai/ZhuanLan
+**ZhuanLan**: https://github.com/bxbxbai/ZhuanLan
 
 一个知乎专栏App
 
@@ -1321,7 +1390,7 @@ Material Design Notes App
 
 ---
 
-**Qiitanium**:  https://github.com/ogaclejapan/Qiitanium
+**Qiitanium**: https://github.com/ogaclejapan/Qiitanium
 
 Qiitanium is an unofficial Android application of Qiita
 
@@ -1329,19 +1398,27 @@ Qiitanium is an unofficial Android application of Qiita
 
 ---
 
-**KISS**:  https://github.com/Neamar/KISS
+**KISS**: https://github.com/Neamar/KISS
 
 轻量的安卓桌面
 
 ---
 
-**Launcher3**:  https://github.com/fookwood/Launcher3
+**Launcher3_mx**: https://github.com/yuchuangu85/Launcher3_mx
+
+谷歌Launcher3，基于最新launcher3-7.1.1-r38的分支
+
+<img src="https://raw.githubusercontent.com/yuchuangu85/Launcher3_mx/master/art/launcher2.jpg" width="320" /> <img src="https://raw.githubusercontent.com/yuchuangu85/Launcher3_mx/master/art/launcher1.jpg" width="320" />
+
+---
+
+**Launcher3**: https://github.com/fookwood/Launcher3
 
 更改官方的Launcher3使得可以在Android Studio编译 http://www.fookwood.com/android
 
 ---
 
-**Remindly**:  https://github.com/blanyal/Remindly
+**Remindly**: https://github.com/blanyal/Remindly
 
 Remindly is a simple and user friendly application to create reminders. https://play.google.com/store/apps/details?id=com.blanyal.remindly
 
@@ -1351,7 +1428,7 @@ Remindly is a simple and user friendly application to create reminders. https://
 
 ---
 
-**Leisure**:  https://github.com/MummyDing/Leisure
+**Leisure**: https://github.com/MummyDing/Leisure
 
  Leisure is an Android App,it contains Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban
 
@@ -1508,3 +1585,23 @@ Mr. lock screen is a simple, cool lock screen software, the ability to provide c
 <img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/00-main.png" width="320" /> <img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/01-immersive.jpg" width="320" />
 
 ---
+
+**SimpleNews.io**: https://github.com/whiskeyfei/SimpleNews.io
+
+A news App,based on the Material Design and RxJava 、MVP、Component Module. 基于 Material Design 、MVP、RxJava 、Android 组件化的新闻客户端
+
+本代码库借鉴了[SimpleNews](https://github.com/liuling07/SimpleNews)，上面也有原库的介绍，在原来得基础上，修改了较多内容，目前除了一些 tab 切换及 UI 使用原 SimpleNews 逻辑，架构和数据方面基本上已经完全被修改。
+Change as follows:
+
+- [x] change the data interface.
+- [x] change switch fragment mechanism.
+- [x] change mvc mechanism separate ui and logic.
+- [x] clear the useless code and liarary and ui resourses.
+- [x] add gradle build apk release version.
+- [x] add BaseActivity for eventBus.
+
+
+<img src="http://7xol9p.com1.z0.glb.clouddn.com/github_news.gif" width="320" />
+
+---
+

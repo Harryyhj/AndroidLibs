@@ -7,6 +7,100 @@
 
 ---
 
+**SlimAdapter**: https://github.com/MEiDIK/SlimAdapter
+
+A slim & clean & typeable Adapter without VIEWHOLDER
+
+---
+
+**admobadapter**: https://github.com/clockbyte/admobadapter
+
+It wraps your Adapter to display Admob native ads in a ListView/RecyclerView data set. It based on the Yahoo fetchr project
+
+<img src="https://raw.githubusercontent.com/clockbyte/admobadapter/master/screenshots/ezgif.com-gif-maker.gif" width="320" />
+
+---
+
+**greedo-layout-for-android**: https://github.com/500px/greedo-layout-for-android
+
+Full aspect ratio grid LayoutManager for Android's RecyclerView
+
+<img src="https://github.com/500px/greedo-layout-for-android/raw/master/screenshot.png" width="320" />
+
+---
+
+**AutoRecyclerAdapter**: https://github.com/teambition/AutoRecyclerAdapter
+
+Automated configuration RecyclerView.Adapter for Android
+
+<img src="https://github.com/ruzhan123/AutoRecyclerAdapter/raw/master/gif/autos.gif" width="320" />
+
+---
+
+**recyclerview-adapters**: https://github.com/chuross/recyclerview-adapters
+
+Multiple item adapters for RecyclerView
+
+<img src="https://cloud.githubusercontent.com/assets/1422031/24061304/42627b7e-0b9a-11e7-97d1-14a6cabcfd59.gif" width="320" />
+
+---
+
+**EasySwipeMenuLayout**: https://github.com/anzaizai/EasySwipeMenuLayout
+
+Android之自定义View：侧滑删除
+
+<img src="https://camo.githubusercontent.com/83da24707ac86667c1410bfa875cd2abe05e5b33/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313831313839332d653161613562326633366631636166352e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320" />
+
+---
+
+**DraggableTreeView**: https://github.com/jakebonk/DraggableTreeView
+
+TreeView with drag and drop (n-th level)
+
+<img src="https://camo.githubusercontent.com/2ef015a535f2caba2192de64508f251319894d5a/68747470733a2f2f7468756d62732e6766796361742e636f6d2f436f6e66757365645065726b7944776172666d6f6e676f6f73652d73697a655f726573747269637465642e676966" width="320" />
+
+---
+
+**Swiperoo**: https://github.com/BelkaLab/Swiperoo
+
+滑动删除
+
+<img src="https://raw.githubusercontent.com/BelkaLab/Swiperoo/master/swiperoo-library-live-demo.gif" width="600" />
+
+---
+
+**SmartRefreshLayout**: https://github.com/scwang90/SmartRefreshLayout
+
+Android智能下拉刷新框架，支持越界回弹，集成了几十种炫酷的Header和 Footer
+
+<img src="https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_practive_weibo.gif" width="320" /> <img src="https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_practive_feedlist.gif" width="320" />
+
+---
+
+**Typewriter**: https://github.com/Ilya-Gh/Typewriter
+
+打字机效果的下拉刷新
+
+<img src="https://github.com/Ilya-Gh/Typewriter/raw/master/animation.gif" width="320" />
+
+---
+
+**FireworkyPullToRefresh**: https://github.com/Cleveroad/FireworkyPullToRefresh
+
+烟花效果的下拉刷新
+
+<img src="https://raw.githubusercontent.com/Cleveroad/FireworkyPullToRefresh/master/images/demo_.gif" width="640" />
+
+---
+
+**SwipeableRV**: https://github.com/huan-nguyen/SwipeableRV
+
+SwipeableRV
+
+<img src="https://github.com/huan-nguyen/SwipeableRV/raw/master/screenshot/demo.gif" width="320" />
+
+---
+
 **SwipeMenuRecyclerView**: https://github.com/AItsuki/SwipeMenuRecyclerView
 
 RecyclerView侧滑菜单
@@ -39,14 +133,6 @@ A single adapter for the whole project
 
 ---
 
-**vlayout**: https://github.com/alibaba/vlayout
-
-VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题
-
-<img src="https://camo.githubusercontent.com/2b947a15f5502af5a4639a5927d68052ccfb54a3/687474703a2f2f696d67332e746263646e2e636e2f4c312f3436312f312f31623962666234323030393034376637356365653038616537343135303564653263373461633061" width="200" />
-
----
-
 **ExpectAnim**: https://github.com/florent37/ExpectAnim
 
 通过描述来实现动画方案
@@ -59,6 +145,14 @@ VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一�
 **SwipeCardview**: https://github.com/iravul/SwipeCardview
 
 SwipeCardview for listing item or products
+
+---
+
+**ShimmerRecyclerView**: https://github.com/tabassumLatif/ShimmerRecyclerView
+
+Shimmer effect in RecyclerView
+
+<img src="https://raw.githubusercontent.com/tabassumLatif/ShimmerRecyclerView/master/sample.gif?raw=true" width="320" />
 
 ---
 
@@ -79,11 +173,27 @@ A RecyclerView extension for building list more easily
 
 ---
 
+**StickyDecoration**: https://github.com/Gavin-ZYX/StickyDecoration
+
+利用RecyclerView.ItemDecoration实现顶部悬浮效果
+
+<img src="https://camo.githubusercontent.com/c009cb18e1a2bc01f023cfe19b3ac25da7e0a472/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313633383134372d383939383664373134313734316364662e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="300" />
+
+---
+
 **RecyclerStickyHeaderView**: https://github.com/TellH/RecyclerStickyHeaderView
 
 在RecyclerView上实现吸顶布局
 
 <img src="https://raw.githubusercontent.com/TellH/RecyclerStickyHeaderView/master/raw/effect.gif" width="320" />
+
+---
+
+**Sticky-Header-Grid**: https://github.com/Codewaves/Sticky-Header-Grid
+
+Sticky-Header-Grid
+
+<img src="https://github.com/Codewaves/Sticky-Header-Grid/blob/master/images/sample.gif" width="240" />
 
 ---
 
@@ -148,6 +258,54 @@ TwinklingRefreshLayout 小而强大的刷新控件，自带顺滑的越界回弹
 支持多个方向滑动的 View，类似 Calendar 里的 UI 效果
 
 <img src="https://raw.githubusercontent.com/Kelin-Hong/ScrollablePanel/master/art/ScrollablePanelDemo.gif" width="320" />
+
+---
+
+**flexbox-layout**: https://github.com/google/flexbox-layout
+
+FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android
+
+<img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/flex-direction.gif" width="270" /> <img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/flex-wrap.gif" width="270" /> <img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/justify-content.gif" width="270" />
+
+---
+
+**SpannedGridLayoutManager**: https://github.com/Arasthel/SpannedGridLayoutManager
+
+支持不同形态的 Span Grid Layout
+
+<img src="https://github.com/Arasthel/SpannedGridLayoutManager/raw/master/art/spannedgridlayout.gif" width="320" />
+
+---
+
+**LondonEyeLayoutManager**: https://github.com/danylovolokh/LondonEyeLayoutManager
+
+A Layoutmanager that must be used with RecyclerView
+
+<img src="https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif" width="320" />
+
+---
+
+**HiveLayoutManager**: https://github.com/Chacojack/HiveLayoutManager
+
+蜂巢布局管理器
+
+<img src="https://camo.githubusercontent.com/77f9a87db596da7aced9fa32d32ba5159a5d2244/68747470733a2f2f636861636f6a61636b2e6769746875622e696f2f323031362f30392f32392f52656379636c6572566965772545372539412538342545342542382538302545342542382541412545392541392541432545382539432538322545372541412539442545352542382538332545352542312538302f686f72697a6f6e74616c2e706e67" width="270" />
+
+---
+
+**vlayout**: https://github.com/alibaba/vlayout
+
+VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题
+
+<img src="https://camo.githubusercontent.com/2b947a15f5502af5a4639a5927d68052ccfb54a3/687474703a2f2f696d67332e746263646e2e636e2f4c312f3436312f312f31623962666234323030393034376637356365653038616537343135303564653263373461633061" width="200" />
+
+---
+
+**CarouselLayoutManager**: https://github.com/Azoft/CarouselLayoutManager
+
+让你的RecyclerView秀出传送带效果，支持横向和纵向两种选择
+
+<img src="https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_double_work_small.gif" width="320" />
 
 ---
 
@@ -369,11 +527,25 @@ Decouple the item(/nested viewholder) from recyclerview's adapter
 
 ---
 
+**MultiViewAdapter**: https://github.com/DevAhamed/MultiViewAdapter
+
+显示recycleview复杂布局
+
+<img src="https://github.com/DevAhamed/MultiViewAdapter/raw/master/images/MultiViewAdapter-gif.gif?raw=true" width="320" />
+
+---
+
 **epoxy**: https://github.com/airbnb/epoxy
 
 又一个显示recycleview复杂效果的库
 
 <img src="https://raw.githubusercontent.com/airbnb/epoxy/master/epoxy-sample/epoxy_sample_app.gif" width="320" />
+
+---
+
+**AdapterX**: https://github.com/siper/AdapterX
+
+Simple multiview RecyclerView adapter
 
 ---
 
@@ -681,6 +853,22 @@ An index side bar with wave effect
 帮助快速查阅对应分组的侧边栏
 
 <img src="https://raw.githubusercontent.com/saiwu-bigkoo/Android-QuickSideBar/master/preview/quicksidebardemo.gif" width="320" />
+
+---
+
+**ShimmerContactsView**: https://github.com/TakeoffAndroid/ShimmerContactsView
+
+Loading contacts made simple with ShimmerContactsView
+
+<img src="https://camo.githubusercontent.com/cd00caacd89b4671a6c79b59f4d838c74d0d15e1/687474703a2f2f692e696d6775722e636f6d2f6859306e3751472e676966" width="320" /> <img src="https://camo.githubusercontent.com/4d33a3e0cda2a395361340c8357ca6fc14bc0fc0/687474703a2f2f692e696d6775722e636f6d2f6e764d64554a492e676966" width="320" />
+
+---
+
+**bubble-scroll**: https://github.com/cdflynn/bubble-scroll
+
+泡泡效果的索引滚动控件
+
+<img src="https://github.com/cdflynn/bubble-scroll/raw/master/sample/img/scroll_sample_gif.gif?raw=true" width="320" />
 
 ---
 
@@ -999,6 +1187,14 @@ a custom pull-to-refresh layout which contains a interesting animation.
 
 ---
 
+**SmoothRefreshLayout**: [https://github.com/dkzwm/SmoothRefreshLayout](https://github.com/dkzwm/SmoothRefreshLayout)
+
+A highly efficient refresh library for Android.In theory , Can support all Views.
+
+<img src="https://github.com/dkzwm/SmoothRefreshLayout/blob/master/snapshot/test_two_level_refresh.png" width="320" />
+
+---
+
 **WaveSwipeRefreshLayout**: [https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)
 
 [http://engineer.recruit-lifestyle.co.jp/techblog/2015-08-03-swipe-refresh-layout/](http://engineer.recruit-lifestyle.co.jp/techblog/2015-08-03-swipe-refresh-layout/)
@@ -1172,12 +1368,49 @@ ListView with blur/parallax/sticky capabilities.
 
 ---
 
-**RecyclerView-FlexibleDivider**: [https://github.com/yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
+**MultiLineDivider**: https://github.com/sakebook/MultiLineDivider
+
+Multi divider in RecyclerView on Android
+
+<img src="https://raw.githubusercontent.com/sakebook/MultiLineDivider/master/art/vertical.png" width="320" />
+<img src="https://raw.githubusercontent.com/sakebook/MultiLineDivider/master/art/horizontal.png" width="320"/>
+
+---
+
+**RecyclerViewDivider**: https://github.com/Fondesa/RecyclerViewDivider
+
+RecyclerView 分割线
+
+<img src="https://raw.githubusercontent.com/Fondesa/RecyclerViewDivider/master/art/screenshot_div_draw.png" width="320" />
+<img src="https://raw.githubusercontent.com/Fondesa/RecyclerViewDivider/master/art/screenshot_grid.png" width="320"/>
+
+---
+
+**ItemDecorations**: [https://github.com/dkzwm/ItemDecorations](https://github.com/dkzwm/ItemDecorations)
+
+A dividers library for RecyclerView which use GridLayoutManager or LinearLayoutManager ，   
+when the RecyclerView used GridLayoutManager that supports cross-column feature
+<p>
+<img src="https://raw.githubusercontent.com/dkzwm/ItemDecorations/master/snapshot1.png" width="320" />
+<img src="https://raw.githubusercontent.com/dkzwm/ItemDecorations/master/snapshot2.png" width="320"/>
+<p/>
+
+---
+
+**RecyclerView-FlexibleDivider**: https://github.com/yqritc/RecyclerView-FlexibleDivider
 
 Android library providing simple way to control divider items of RecyclerView.
 
 <img src="https://github.com/yqritc/RecyclerView-FlexibleDivider/blob/master/sample/sample1.gif" width="320" />
 <img src="https://github.com/yqritc/RecyclerView-FlexibleDivider/blob/master/sample/sample2.gif" width="320" />
+
+---
+
+**Dividers**: [https://github.com/Karumi/Dividers](https://github.com/Karumi/Dividers)
+
+Dividers is a simple Android library to create easy separators for your RecyclerViews
+
+<img src="https://github.com/Karumi/Dividers/blob/master/art/example.gif" width="320" />
 
 ---
 
@@ -1237,14 +1470,6 @@ ItemDecoration for RecyclerView using LinearLayoutManager for Android
 Lollipop's Recents container
 
 <img src="https://github.com/ZieIony/MaterialRecents/blob/master/images/recents.gif" width="320" />
-
----
-
-**Dividers**: [https://github.com/Karumi/Dividers](https://github.com/Karumi/Dividers)
-
-Dividers is a simple Android library to create easy separators for your RecyclerViews
-
-<img src="https://github.com/Karumi/Dividers/blob/master/art/example.gif" width="320" />
 
 ---
 

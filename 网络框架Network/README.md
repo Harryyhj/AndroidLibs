@@ -6,6 +6,32 @@
 
 ---
 
+**samba-documents-provider**: https://github.com/google/samba-documents-provider
+
+Android Samba 协议实现
+
+---
+
+**AndroidUnplash**: https://github.com/KeenenCharles/AndroidUnplash
+
+An unofficial Unsplash API library for Android
+
+---
+
+**F32-for-Android**: https://github.com/igormatyushkin014/F32-for-Android
+
+Android library for OpenWeatherMap API
+
+---
+
+**AndroidSnooper**: https://github.com/jainsahab/AndroidSnooper
+
+记录网络请求拦截器
+
+<img src="https://raw.githubusercontent.com/jainsahab/AndroidSnooper/master/assets/snooper_demo.gif" width="270" />
+
+---
+
 **AndServer**: https://github.com/yanzhenjie/AndServer
 
 AndServer—原生 Android 做Web开发
@@ -14,9 +40,27 @@ AndServer—原生 Android 做Web开发
 
 ---
 
+**cookietray**: https://github.com/abohomol/cookietray
+
+Persistent cookie storage for OkHttp3 based on SharedPreferences
+
+---
+
+**Session_Cookie_Reader**: https://github.com/Ludy87/Session_Cookie_Reader
+
+Cookie Reader of Session
+
+---
+
 **LoggingInterceptor**: https://github.com/ihsanbal/LoggingInterceptor
 
 OkHttp 请求和响应日志拦截器
+
+---
+
+**RetrofitLifecycle**: https://github.com/luckyandyzhang/RetrofitLifecycle
+
+通过注解管理 Retrofit 生命周期
 
 ---
 
@@ -68,9 +112,23 @@ DNS proxy for Android 4.3+
 
 ---
 
+**RetrofitRssConverterFactory**: https://github.com/faruktoptas/RetrofitRssConverterFactory
+
+A Retrofit 2 converter which parses Rss feeds
+
+---
+
 **retrocache**: https://github.com/iagocanalejas/retrocache
 
 This library provides an easy way for configure retrofit for use a 2 layer cache (RAM and Disk)
+
+---
+
+**AgentWeb**: https://github.com/Justson/AgentWeb
+
+AgentWeb 是基于 Android WebView 一个功能完善小型浏览器库 。 使用很方便 ， 集成进你应用 ，只需几行代码
+
+<img src="https://github.com/Justson/AgentWeb/raw/master/img/jd.png" width="320" /> <img src="https://github.com/Justson/AgentWeb/raw/master/img/alipay.png" width="320" />
 
 ---
 

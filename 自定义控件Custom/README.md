@@ -6,6 +6,70 @@
 
 ---
 
+**Sequent**: https://github.com/fujiyuu75/Sequent
+
+A simple continuous animation library for Android UI
+
+<img src="https://github.com/fujiyuu75/sequent/raw/res/demo.gif" width="320" />
+
+---
+
+**DividerDrawable**: https://github.com/nekocode/DividerDrawable
+
+不要再新建 View 来画分隔符了，用 Drawable 吧
+
+<img src="https://github.com/nekocode/DividerDrawable/raw/master/art/screenshot.png" width="320" />
+
+---
+
+**InDoorSurfaceView**: https://github.com/karonl/InDoorSurfaceView
+
+Android 室内场景构建组件，帮你快速的完成室内场景 View 的展示
+
+<img src="https://camo.githubusercontent.com/3b1efaac234a75ca6c833ea05384cc7b2570e5d9/68747470733a2f2f6c65616e636c75622e636e2f3734313639302d303163363131613236623235313636312e706e67" width="320" />
+
+---
+
+**QuestionnaireView**: https://github.com/alfredayibonte/QuestionnaireView
+
+答题布局
+
+<img src="https://github.com/alfredayibonte/QuestionnaireView/blob/master/device-2017-05-08-072515.png" width="320" />
+
+---
+
+**Katex**: https://github.com/lingarajsankaravelu/Katex
+
+常用数学公式布局
+
+<img src="https://cloud.githubusercontent.com/assets/8025146/24969740/628856d2-1fcf-11e7-9daf-01e7fd5452db.gif" width="200" />
+
+---
+
+**WaveView**: https://github.com/developer-shivam/WaveView
+
+正弦曲线绘制动画
+
+<img src="https://raw.githubusercontent.com/developer-shivam/WaveView/master/screenshots/wave_gif.gif" width="320" />
+
+---
+
+**SineView**: https://github.com/guiguegon/SineView
+
+正弦曲线绘制动画
+
+<img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/screenshot.png" width="320" /> <img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/animating.gif" width="320" />
+
+---
+
+**AttributionPresenter**: https://github.com/franmontiel/AttributionPresenter
+
+开源库属性展示
+
+<img src = "https://github.com/franmontiel/AttributionPresenter/raw/master/screenshot-dialog.png" width = "320"/> <img src = "https://github.com/franmontiel/AttributionPresenter/raw/master/screenshot-dark-theme.png" width = "320"/>
+
+---
+
 **material-about-library**: https://github.com/daniel-stoneuk/material-about-library
 
 Material Design 风格的 About 页面设计
@@ -19,6 +83,14 @@ Material Design 风格的 About 页面设计
 AboutLibraries is a library to offer some information of libraries
 
 <img src = "https://raw.githubusercontent.com/mikepenz/AboutLibraries/master/DEV/screenshots/screenshot1_small.png" width = "320"/> <img src = "https://raw.githubusercontent.com/mikepenz/AboutLibraries/master/DEV/screenshots/screenshot2_small.png" width = "320"/>
+
+---
+
+**calibrator-sensor**: https://github.com/xenione/calibrator-sensor
+
+方向传感器矫正
+
+<img src="https://cloud.githubusercontent.com/assets/4138527/25778832/1844ba4a-330a-11e7-9d0e-63f85ca63cdf.gif" width="240"/>
 
 ---
 
@@ -190,6 +262,14 @@ Android：用以显示类似github贡献度的View，当然，也绝不仅限于
 
 ---
 
+**WebViewDemo**:https://github.com/Ansh1234/WebViewDemo
+
+WebView 使用示例
+
+<img src = "https://github.com/Ansh1234/WebViewDemo/raw/master/images/two.png" width = "320"/>
+
+---
+
 **AdBlockedWebView-Android**: https://github.com/AmniX/AdBlockedWebView-Android
 
 Adblock Webview，支持自动屏蔽广告
@@ -225,6 +305,14 @@ Materially inspired widgets and views that expose RxJava bindings
 简单的仪表盘
 
 <img src="https://raw.githubusercontent.com/yongjhih/mismeter/master/art/screenshot.png" width="300" />
+
+---
+
+**Android-Water-Gauge**: https://github.com/mhmtk/Android-Water-Gauge
+
+An water gauge-like view to display the devices orientation
+
+<img src="https://github.com/mhmtk/Android-Water-Gauge/raw/master/demo/water_gauge.gif" width="320" />
 
 ---
 
@@ -273,6 +361,30 @@ Android 上展示 FPS(每秒显示帧数) 的悬浮组件
 IOS 风格选择控制
 
 <img src="https://camo.githubusercontent.com/92bdc502c25ff25dca9596e0246d1afd994d2f84/687474703a2f2f692e696d6775722e636f6d2f59434f67487a722e676966" width="270" />
+
+---
+
+**PinCodeView**: https://github.com/antoxa2584x/PinCodeView
+
+Android PinCode 密码输入效果
+
+<img src="https://github.com/antoxa2584x/PinCodeView/raw/master/images/preview.jpg" width="320" />
+
+---
+
+**PasscodeView**: https://github.com/kevalpatel2106/PasscodeView
+
+pin和指纹识别解锁
+
+<img src="https://raw.githubusercontent.com/kevalpatel2106/PasscodeView/master/resource/fingerprint_success.gif" width="320" /> <img src="https://raw.githubusercontent.com/kevalpatel2106/PasscodeView/master/resource/fingerprint_failed.gif" width="320" />
+
+---
+
+**PatternLockView**: https://github.com/aritraroy/PatternLockView
+
+可能是目前最漂亮的 Android 手势解锁
+
+<img src="https://raw.githubusercontent.com/aritraroy/PatternLockView/master/screenshots/pattern_lock_view_small.gif" width="320" /> <img src="https://raw.githubusercontent.com/aritraroy/PatternLockView/master/screenshots/pattern_lock_view_2_small.gif" width="320" />
 
 ---
 
@@ -427,6 +539,14 @@ MIUI8 悬浮球
 一个支持四个方向循环滚动的自定义控件
 
 <img src="https://raw.githubusercontent.com/oubowu/MarqueeLayoutLibrary/master/pic/demo.gif" width="360" />
+
+---
+
+**SimpleRatingBar**: https://github.com/ome450901/SimpleRatingBar
+
+A simple RatingBar with scale animation
+
+<img src="https://github.com/ome450901/SimpleRatingBar/raw/master/images/demo.gif" width="320" />
 
 ---
 

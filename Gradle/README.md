@@ -1,8 +1,50 @@
-# AndroidLibs == gradle
+# AndroidLibs == Gradle
 
-包含：各种 gradle 插件等
+包含：各种 Gradle 插件等
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
+
+---
+
+**gradle-api-easy_publish**: https://github.com/saantiaguilera/gradle-api-easy_publish
+
+Publish bintray aar/jar multi-module in a duper easy way
+
+---
+
+**gradlr**: https://github.com/cesarferreira/gradlr
+
+Fastest auto complete for gradle tasks
+
+---
+
+**ConfigDroid**: https://github.com/mb-14/ConfigDroid
+
+可生成常量的gradle插件
+
+---
+
+**DataBindingCompat**: https://github.com/MichaelRocks/DataBindingCompat
+
+A Gradle plugin that makes databinding work well with appcompat
+
+---
+
+**gradle-build-timer-plugin**: https://github.com/eleventigers/gradle-build-timer-plugin
+
+gradle-build-timer-plugin
+
+---
+
+**AppMethodTracking**: https://github.com/CoXier/AppMethodTracking
+
+追踪方法调用的gradle插件
+
+---
+
+**fonts**: https://github.com/florent37/fonts
+
+Define the fonts of your Android project directly from the build.gradle
 
 ---
 

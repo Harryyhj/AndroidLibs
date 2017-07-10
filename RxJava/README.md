@@ -44,6 +44,94 @@ Learning RxJava for Android by example
 
 ---
 
+**android-api-RxFacebook**: https://github.com/saantiaguilera/android-api-RxFacebook
+
+Reactive Extension for Facebook SDK
+
+---
+
+**LifecycleAwareRx**: https://github.com/WaylonBrown/LifecycleAwareRx
+
+Make your RxJava2 streams life-cycle aware with Android Architecture Components
+
+---
+
+**aesthetic**: https://github.com/afollestad/aesthetic
+
+RxJava 实现的主题切换引擎
+
+<img src="https://raw.githubusercontent.com/afollestad/aesthetic/master/images/showcase1.png" width="640" />
+
+---
+
+**ObservableScheduler**: https://github.com/jiang111/ObservableScheduler
+
+仿RxJava 的管理线程间跳转的库
+
+<img src="https://raw.githubusercontent.com/jiang111/ObservableScheduler/master/art/art.gif" width="320" />
+
+---
+
+**rx-scheduler-transformer**: https://github.com/thepacific/rx-scheduler-transformer
+
+rxjava scheduler transformer tools for android
+
+---
+
+**RxAnnotations**: https://github.com/CityVibes/RxAnnotations
+
+Annotations for RxJava
+
+---
+
+**RxAndroidOrm**: https://github.com/florent37/RxAndroidOrm
+
+RxAndroidOrm
+
+---
+
+**rx-contacts2**: https://github.com/mirrajabi/rx-contacts2
+
+rx-contacts2
+
+---
+
+**RxPicker**: https://github.com/imuhao/RxPicker
+
+基于 RxJava 图片选择器
+
+---
+
+**rx-battery**: https://github.com/yongjhih/rx-battery
+
+rx-battery
+
+---
+
+**rx-telephony**: https://github.com/yongjhih/rx-telephony
+
+rx-telephony
+
+---
+
+**rx-net**: https://github.com/yongjhih/rx-net
+
+rx-net
+
+---
+
+**rx-receiver**: https://github.com/yongjhih/rx-receiver
+
+RxJava1/2 for Android BroadcastReceiver
+
+---
+
+**RxDiffUtil**: https://github.com/volders/RxDiffUtil
+
+RxDiffUtil is an Rx wrapper around the Android DiffUtil library for the RecyclerView
+
+---
+
 **RxActivityResult**: https://github.com/nekocode/RxActivityResult
 
 Receive results from startActivityForResult() as an Observable
@@ -114,6 +202,14 @@ RxJava 封装的安卓动画库
 
 ---
 
+**Traceur**: https://github.com/T-Spoon/Traceur
+
+RxJava2 辅助 Debug 工具，更好的展示堆栈调用
+
+<img src="https://raw.githubusercontent.com/T-Spoon/Traceur/master/assets/stacktrace-with-traceur.png" width="640" />
+
+---
+
 **frodo**: https://github.com/android10/frodo
 
 RxJava 调试助手，日志管理
@@ -156,6 +252,12 @@ error handle of Rxjava
 
 ---
 
+**RxDownloadManager**: https://github.com/volders/RxDownloadManager
+
+Download manager implemented using RxJava
+
+---
+
 **RxDownloader**: https://github.com/esafirm/RxDownloader
 
 An Rx wrapper for Download Manager in Android
@@ -167,12 +269,6 @@ An Rx wrapper for Download Manager in Android
 **RxSchedulerRule**: https://github.com/Plastix/RxSchedulerRule
 
 Simple JUnit rule for overriding RxJava/RxAndroid schedulers during unit tests
-
----
-
-**RxLoader**: https://github.com/L4Digital/RxLoader
-
-An Android Loader that wraps an RxJava Observable
 
 ---
 
@@ -199,6 +295,12 @@ Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and swi
 **RxGroups**: https://github.com/airbnb/RxGroups
 
 Easily group RxJava Observables together and tie them to your Android Activity lifecycle
+
+---
+
+**RxComponentLifecycle**: https://github.com/florent37/RxComponentLifecycle
+
+Rx binding of new Android Architecture Component Lifecycle
 
 ---
 
@@ -288,6 +390,12 @@ RxLoader
 
 ---
 
+**RxLoader**: https://github.com/L4Digital/RxLoader
+
+An Android Loader that wraps an RxJava Observable
+
+---
+
 **ixjava**: https://github.com/akarnokd/ixjava
 
 Interactive Extensions for Java, the dual of RxJava. Originally implemented in the Reactive4Java framework, now converted to work with RxJava.
@@ -315,6 +423,12 @@ RxJava 方式对 List 的封装
 **RxBus2**: https://github.com/MFlisar/RxBus2
 
 RxJava2 based bus with queuing (e.g. lifecycle based) support
+
+---
+
+**RxBus**: https://github.com/florent37/RxBus
+
+Android reactive event bus that simplifies communication between Presenters, Activities, Fragments, Threads, Services, etc.
 
 ---
 
